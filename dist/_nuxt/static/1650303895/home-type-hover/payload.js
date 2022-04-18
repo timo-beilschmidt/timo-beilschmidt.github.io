@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/home-type-hover", {data:[{}],fetch:{},mutations:void 0});

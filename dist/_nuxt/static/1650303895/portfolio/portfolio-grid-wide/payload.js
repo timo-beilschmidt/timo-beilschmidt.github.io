@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/portfolio/portfolio-grid-wide", {data:[{}],fetch:{},mutations:void 0});

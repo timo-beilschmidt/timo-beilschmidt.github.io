@@ -1,0 +1,604 @@
+[
+  {
+    "name": "about-us-01",
+    "path": "/about-us-01",
+    "component": "/home/timo-beilschmidt/repos/karakale-nuxtjs/pages/about-us-01.vue",
+    "chunkName": "pages/about-us-01",
+    "_name": "_1efae515"
+  },
+  {
+    "name": "about-us-02",
+    "path": "/about-us-02",
+    "component": "/home/timo-beilschmidt/repos/karakale-nuxtjs/pages/about-us-02.vue",
+    "chunkName": "pages/about-us-02",
+    "_name": "_1f08fc96"
+  },
+  {
+    "name": "about-us-03",
+    "path": "/about-us-03",
+    "component": "/home/timo-beilschmidt/repos/karakale-nuxtjs/pages/about-us-03.vue",
+    "chunkName": "pages/about-us-03",
+    "_name": "_1f171417"
+  },
+  {
+    "name": "career",
+    "path": "/career",
+    "component": "/home/timo-beilschmidt/repos/karakale-nuxtjs/pages/career.vue",
+    "chunkName": "pages/career",
+    "_name": "_010675c9"
+  },
+  {
+    "name": "contact-us-modern",
+    "path": "/contact-us-modern",
+    "component": "/home/timo-beilschmidt/repos/karakale-nuxtjs/pages/contact-us-modern.vue",
+    "chunkName": "pages/contact-us-modern",
+    "_name": "_42e6b946"
+  },
+  {
+    "name": "contact-us-with-map",
+    "path": "/contact-us-with-map",
+    "component": "/home/timo-beilschmidt/repos/karakale-nuxtjs/pages/contact-us-with-map.vue",
+    "chunkName": "pages/contact-us-with-map",
+    "_name": "_1711733c"
+  },
+  {
+    "name": "home-authentic-studio",
+    "path": "/home-authentic-studio",
+    "component": "/home/timo-beilschmidt/repos/karakale-nuxtjs/pages/home-authentic-studio.vue",
+    "chunkName": "pages/home-authentic-studio",
+    "_name": "_81b9b88e"
+  },
+  {
+    "name": "home-blog-grid",
+    "path": "/home-blog-grid",
+    "component": "/home/timo-beilschmidt/repos/karakale-nuxtjs/pages/home-blog-grid.vue",
+    "chunkName": "pages/home-blog-grid",
+    "_name": "_3481a024"
+  },
+  {
+    "name": "home-corona",
+    "path": "/home-corona",
+    "component": "/home/timo-beilschmidt/repos/karakale-nuxtjs/pages/home-corona.vue",
+    "chunkName": "pages/home-corona",
+    "_name": "_1e7e4e8f"
+  },
+  {
+    "name": "home-creative-agency",
+    "path": "/home-creative-agency",
+    "component": "/home/timo-beilschmidt/repos/karakale-nuxtjs/pages/home-creative-agency.vue",
+    "chunkName": "pages/home-creative-agency",
+    "_name": "_1c7fe080"
+  },
+  {
+    "name": "home-creative-portfolio",
+    "path": "/home-creative-portfolio",
+    "component": "/home/timo-beilschmidt/repos/karakale-nuxtjs/pages/home-creative-portfolio.vue",
+    "chunkName": "pages/home-creative-portfolio",
+    "_name": "_6ce7b89d"
+  },
+  {
+    "name": "home-design-studio",
+    "path": "/home-design-studio",
+    "component": "/home/timo-beilschmidt/repos/karakale-nuxtjs/pages/home-design-studio.vue",
+    "chunkName": "pages/home-design-studio",
+    "_name": "_23a259a2"
+  },
+  {
+    "name": "home-digital-agency",
+    "path": "/home-digital-agency",
+    "component": "/home/timo-beilschmidt/repos/karakale-nuxtjs/pages/home-digital-agency.vue",
+    "chunkName": "pages/home-digital-agency",
+    "_name": "_a60cea66"
+  },
+  {
+    "name": "home-essential",
+    "path": "/home-essential",
+    "component": "/home/timo-beilschmidt/repos/karakale-nuxtjs/pages/home-essential.vue",
+    "chunkName": "pages/home-essential",
+    "_name": "_54a50a2b"
+  },
+  {
+    "name": "home-foodie",
+    "path": "/home-foodie",
+    "component": "/home/timo-beilschmidt/repos/karakale-nuxtjs/pages/home-foodie.vue",
+    "chunkName": "pages/home-foodie",
+    "_name": "_7582b26d"
+  },
+  {
+    "name": "home-freelancer",
+    "path": "/home-freelancer",
+    "component": "/home/timo-beilschmidt/repos/karakale-nuxtjs/pages/home-freelancer.vue",
+    "chunkName": "pages/home-freelancer",
+    "_name": "_46d6c7f6"
+  },
+  {
+    "name": "home-fullscreen-slider-left-vertical-header",
+    "path": "/home-fullscreen-slider-left-vertical-header",
+    "component": "/home/timo-beilschmidt/repos/karakale-nuxtjs/pages/home-fullscreen-slider-left-vertical-header.vue",
+    "chunkName": "pages/home-fullscreen-slider-left-vertical-header",
+    "_name": "_38747acb"
+  },
+  {
+    "name": "home-indie-musician",
+    "path": "/home-indie-musician",
+    "component": "/home/timo-beilschmidt/repos/karakale-nuxtjs/pages/home-indie-musician.vue",
+    "chunkName": "pages/home-indie-musician",
+    "_name": "_25431756"
+  },
+  {
+    "name": "home-landing",
+    "path": "/home-landing",
+    "component": "/home/timo-beilschmidt/repos/karakale-nuxtjs/pages/home-landing.vue",
+    "chunkName": "pages/home-landing",
+    "_name": "_4b755c98"
+  },
+  {
+    "name": "home-masonry-gallery",
+    "path": "/home-masonry-gallery",
+    "component": "/home/timo-beilschmidt/repos/karakale-nuxtjs/pages/home-masonry-gallery.vue",
+    "chunkName": "pages/home-masonry-gallery",
+    "_name": "_7edff4e7"
+  },
+  {
+    "name": "home-minimal-agency",
+    "path": "/home-minimal-agency",
+    "component": "/home/timo-beilschmidt/repos/karakale-nuxtjs/pages/home-minimal-agency.vue",
+    "chunkName": "pages/home-minimal-agency",
+    "_name": "_d7f1e8b8"
+  },
+  {
+    "name": "home-minimal-metro-grid",
+    "path": "/home-minimal-metro-grid",
+    "component": "/home/timo-beilschmidt/repos/karakale-nuxtjs/pages/home-minimal-metro-grid.vue",
+    "chunkName": "pages/home-minimal-metro-grid",
+    "_name": "_05245919"
+  },
+  {
+    "name": "home-minimal-portfolio",
+    "path": "/home-minimal-portfolio",
+    "component": "/home/timo-beilschmidt/repos/karakale-nuxtjs/pages/home-minimal-portfolio.vue",
+    "chunkName": "pages/home-minimal-portfolio",
+    "_name": "_079d0af9"
+  },
+  {
+    "name": "home-onepage",
+    "path": "/home-onepage",
+    "component": "/home/timo-beilschmidt/repos/karakale-nuxtjs/pages/home-onepage.vue",
+    "chunkName": "pages/home-onepage",
+    "_name": "_14d732dc"
+  },
+  {
+    "name": "home-photo-slider-gallery",
+    "path": "/home-photo-slider-gallery",
+    "component": "/home/timo-beilschmidt/repos/karakale-nuxtjs/pages/home-photo-slider-gallery.vue",
+    "chunkName": "pages/home-photo-slider-gallery",
+    "_name": "_c8060dd8"
+  },
+  {
+    "name": "home-portfolio-slide",
+    "path": "/home-portfolio-slide",
+    "component": "/home/timo-beilschmidt/repos/karakale-nuxtjs/pages/home-portfolio-slide.vue",
+    "chunkName": "pages/home-portfolio-slide",
+    "_name": "_6776ddee"
+  },
+  {
+    "name": "home-presentation",
+    "path": "/home-presentation",
+    "component": "/home/timo-beilschmidt/repos/karakale-nuxtjs/pages/home-presentation.vue",
+    "chunkName": "pages/home-presentation",
+    "_name": "_5a86d74d"
+  },
+  {
+    "name": "home-product-landing",
+    "path": "/home-product-landing",
+    "component": "/home/timo-beilschmidt/repos/karakale-nuxtjs/pages/home-product-landing.vue",
+    "chunkName": "pages/home-product-landing",
+    "_name": "_2fd3ecd6"
+  },
+  {
+    "name": "home-restaurant",
+    "path": "/home-restaurant",
+    "component": "/home/timo-beilschmidt/repos/karakale-nuxtjs/pages/home-restaurant.vue",
+    "chunkName": "pages/home-restaurant",
+    "_name": "_411344b0"
+  },
+  {
+    "name": "home-service",
+    "path": "/home-service",
+    "component": "/home/timo-beilschmidt/repos/karakale-nuxtjs/pages/home-service.vue",
+    "chunkName": "pages/home-service",
+    "_name": "_49b15f52"
+  },
+  {
+    "name": "home-start-up",
+    "path": "/home-start-up",
+    "component": "/home/timo-beilschmidt/repos/karakale-nuxtjs/pages/home-start-up.vue",
+    "chunkName": "pages/home-start-up",
+    "_name": "_ee4bd0ce"
+  },
+  {
+    "name": "home-type-hover",
+    "path": "/home-type-hover",
+    "component": "/home/timo-beilschmidt/repos/karakale-nuxtjs/pages/home-type-hover.vue",
+    "chunkName": "pages/home-type-hover",
+    "_name": "_801a4748"
+  },
+  {
+    "name": "home-vertical-menu",
+    "path": "/home-vertical-menu",
+    "component": "/home/timo-beilschmidt/repos/karakale-nuxtjs/pages/home-vertical-menu.vue",
+    "chunkName": "pages/home-vertical-menu",
+    "_name": "_22d531b3"
+  },
+  {
+    "name": "pricing-plans",
+    "path": "/pricing-plans",
+    "component": "/home/timo-beilschmidt/repos/karakale-nuxtjs/pages/pricing-plans.vue",
+    "chunkName": "pages/pricing-plans",
+    "_name": "_64d4c0a8"
+  },
+  {
+    "name": "pricing-plans-02",
+    "path": "/pricing-plans-02",
+    "component": "/home/timo-beilschmidt/repos/karakale-nuxtjs/pages/pricing-plans-02.vue",
+    "chunkName": "pages/pricing-plans-02",
+    "_name": "_221ec9f7"
+  },
+  {
+    "name": "services-classic",
+    "path": "/services-classic",
+    "component": "/home/timo-beilschmidt/repos/karakale-nuxtjs/pages/services-classic.vue",
+    "chunkName": "pages/services-classic",
+    "_name": "_77d4fe2e"
+  },
+  {
+    "name": "services-list",
+    "path": "/services-list",
+    "component": "/home/timo-beilschmidt/repos/karakale-nuxtjs/pages/services-list.vue",
+    "chunkName": "pages/services-list",
+    "_name": "_03c1529c"
+  },
+  {
+    "name": "services-modern",
+    "path": "/services-modern",
+    "component": "/home/timo-beilschmidt/repos/karakale-nuxtjs/pages/services-modern.vue",
+    "chunkName": "pages/services-modern",
+    "_name": "_b55b8c9a"
+  },
+  {
+    "name": "team-carousel-01",
+    "path": "/team-carousel-01",
+    "component": "/home/timo-beilschmidt/repos/karakale-nuxtjs/pages/team-carousel-01.vue",
+    "chunkName": "pages/team-carousel-01",
+    "_name": "_2f10c6ae"
+  },
+  {
+    "name": "team-carousel-02",
+    "path": "/team-carousel-02",
+    "component": "/home/timo-beilschmidt/repos/karakale-nuxtjs/pages/team-carousel-02.vue",
+    "chunkName": "pages/team-carousel-02",
+    "_name": "_2ef497ac"
+  },
+  {
+    "name": "team-grid",
+    "path": "/team-grid",
+    "component": "/home/timo-beilschmidt/repos/karakale-nuxtjs/pages/team-grid.vue",
+    "chunkName": "pages/team-grid",
+    "_name": "_13a738bb"
+  },
+  {
+    "name": "blog-blog-creative",
+    "path": "/blog/blog-creative",
+    "component": "/home/timo-beilschmidt/repos/karakale-nuxtjs/pages/blog/blog-creative.vue",
+    "chunkName": "pages/blog/blog-creative",
+    "_name": "_456ba418"
+  },
+  {
+    "name": "blog-blog-details",
+    "path": "/blog/blog-details",
+    "component": "/home/timo-beilschmidt/repos/karakale-nuxtjs/pages/blog/blog-details.vue",
+    "chunkName": "pages/blog/blog-details",
+    "_name": "_70a8572e"
+  },
+  {
+    "name": "blog-blog-details-modern-layout",
+    "path": "/blog/blog-details-modern-layout",
+    "component": "/home/timo-beilschmidt/repos/karakale-nuxtjs/pages/blog/blog-details-modern-layout.vue",
+    "chunkName": "pages/blog/blog-details-modern-layout",
+    "_name": "_9977e098"
+  },
+  {
+    "name": "blog-blog-grid-classic",
+    "path": "/blog/blog-grid-classic",
+    "component": "/home/timo-beilschmidt/repos/karakale-nuxtjs/pages/blog/blog-grid-classic.vue",
+    "chunkName": "pages/blog/blog-grid-classic",
+    "_name": "_4a8116f4"
+  },
+  {
+    "name": "blog-blog-grid-classic-sidebar",
+    "path": "/blog/blog-grid-classic-sidebar",
+    "component": "/home/timo-beilschmidt/repos/karakale-nuxtjs/pages/blog/blog-grid-classic-sidebar.vue",
+    "chunkName": "pages/blog/blog-grid-classic-sidebar",
+    "_name": "_f3e7ebfa"
+  },
+  {
+    "name": "blog-blog-grid-mesonry",
+    "path": "/blog/blog-grid-mesonry",
+    "component": "/home/timo-beilschmidt/repos/karakale-nuxtjs/pages/blog/blog-grid-mesonry.vue",
+    "chunkName": "pages/blog/blog-grid-mesonry",
+    "_name": "_42cb8fa3"
+  },
+  {
+    "name": "blog-blog-grid-minimal",
+    "path": "/blog/blog-grid-minimal",
+    "component": "/home/timo-beilschmidt/repos/karakale-nuxtjs/pages/blog/blog-grid-minimal.vue",
+    "chunkName": "pages/blog/blog-grid-minimal",
+    "_name": "_6cb44c83"
+  },
+  {
+    "name": "blog-blog-grid-minimal-outline",
+    "path": "/blog/blog-grid-minimal-outline",
+    "component": "/home/timo-beilschmidt/repos/karakale-nuxtjs/pages/blog/blog-grid-minimal-outline.vue",
+    "chunkName": "pages/blog/blog-grid-minimal-outline",
+    "_name": "_f4f54b10"
+  },
+  {
+    "name": "blog-blog-grid-modern",
+    "path": "/blog/blog-grid-modern",
+    "component": "/home/timo-beilschmidt/repos/karakale-nuxtjs/pages/blog/blog-grid-modern.vue",
+    "chunkName": "pages/blog/blog-grid-modern",
+    "_name": "_27fcf02d"
+  },
+  {
+    "name": "blog-blog-grid-simple",
+    "path": "/blog/blog-grid-simple",
+    "component": "/home/timo-beilschmidt/repos/karakale-nuxtjs/pages/blog/blog-grid-simple.vue",
+    "chunkName": "pages/blog/blog-grid-simple",
+    "_name": "_4a2e3540"
+  },
+  {
+    "name": "blog-blog-grid-standard",
+    "path": "/blog/blog-grid-standard",
+    "component": "/home/timo-beilschmidt/repos/karakale-nuxtjs/pages/blog/blog-grid-standard.vue",
+    "chunkName": "pages/blog/blog-grid-standard",
+    "_name": "_bcce016a"
+  },
+  {
+    "name": "blog-blog-standard-list",
+    "path": "/blog/blog-standard-list",
+    "component": "/home/timo-beilschmidt/repos/karakale-nuxtjs/pages/blog/blog-standard-list.vue",
+    "chunkName": "pages/blog/blog-standard-list",
+    "_name": "_4aa272d6"
+  },
+  {
+    "name": "element-accordion",
+    "path": "/element/accordion",
+    "component": "/home/timo-beilschmidt/repos/karakale-nuxtjs/pages/element/accordion.vue",
+    "chunkName": "pages/element/accordion",
+    "_name": "_febcf50c"
+  },
+  {
+    "name": "element-brand-logo",
+    "path": "/element/brand-logo",
+    "component": "/home/timo-beilschmidt/repos/karakale-nuxtjs/pages/element/brand-logo.vue",
+    "chunkName": "pages/element/brand-logo",
+    "_name": "_7981a822"
+  },
+  {
+    "name": "element-call-to-action-banner",
+    "path": "/element/call-to-action-banner",
+    "component": "/home/timo-beilschmidt/repos/karakale-nuxtjs/pages/element/call-to-action-banner.vue",
+    "chunkName": "pages/element/call-to-action-banner",
+    "_name": "_f75e40dc"
+  },
+  {
+    "name": "element-carousel-slider",
+    "path": "/element/carousel-slider",
+    "component": "/home/timo-beilschmidt/repos/karakale-nuxtjs/pages/element/carousel-slider.vue",
+    "chunkName": "pages/element/carousel-slider",
+    "_name": "_8d71d0c0"
+  },
+  {
+    "name": "element-contact-subscribe",
+    "path": "/element/contact-subscribe",
+    "component": "/home/timo-beilschmidt/repos/karakale-nuxtjs/pages/element/contact-subscribe.vue",
+    "chunkName": "pages/element/contact-subscribe",
+    "_name": "_45b26f8f"
+  },
+  {
+    "name": "element-dividers",
+    "path": "/element/dividers",
+    "component": "/home/timo-beilschmidt/repos/karakale-nuxtjs/pages/element/dividers.vue",
+    "chunkName": "pages/element/dividers",
+    "_name": "_3996a938"
+  },
+  {
+    "name": "element-flexible-image-slider",
+    "path": "/element/flexible-image-slider",
+    "component": "/home/timo-beilschmidt/repos/karakale-nuxtjs/pages/element/flexible-image-slider.vue",
+    "chunkName": "pages/element/flexible-image-slider",
+    "_name": "_d35d89f2"
+  },
+  {
+    "name": "element-gradation",
+    "path": "/element/gradation",
+    "component": "/home/timo-beilschmidt/repos/karakale-nuxtjs/pages/element/gradation.vue",
+    "chunkName": "pages/element/gradation",
+    "_name": "_f09aebce"
+  },
+  {
+    "name": "element-icon-boxes",
+    "path": "/element/icon-boxes",
+    "component": "/home/timo-beilschmidt/repos/karakale-nuxtjs/pages/element/icon-boxes.vue",
+    "chunkName": "pages/element/icon-boxes",
+    "_name": "_ad7161ba"
+  },
+  {
+    "name": "element-instagram",
+    "path": "/element/instagram",
+    "component": "/home/timo-beilschmidt/repos/karakale-nuxtjs/pages/element/instagram.vue",
+    "chunkName": "pages/element/instagram",
+    "_name": "_ff56fa38"
+  },
+  {
+    "name": "element-lists",
+    "path": "/element/lists",
+    "component": "/home/timo-beilschmidt/repos/karakale-nuxtjs/pages/element/lists.vue",
+    "chunkName": "pages/element/lists",
+    "_name": "_07351247"
+  },
+  {
+    "name": "element-message-box",
+    "path": "/element/message-box",
+    "component": "/home/timo-beilschmidt/repos/karakale-nuxtjs/pages/element/message-box.vue",
+    "chunkName": "pages/element/message-box",
+    "_name": "_98099b92"
+  },
+  {
+    "name": "element-pricing-box",
+    "path": "/element/pricing-box",
+    "component": "/home/timo-beilschmidt/repos/karakale-nuxtjs/pages/element/pricing-box.vue",
+    "chunkName": "pages/element/pricing-box",
+    "_name": "_296eba14"
+  },
+  {
+    "name": "element-tab",
+    "path": "/element/tab",
+    "component": "/home/timo-beilschmidt/repos/karakale-nuxtjs/pages/element/tab.vue",
+    "chunkName": "pages/element/tab",
+    "_name": "_24876672"
+  },
+  {
+    "name": "element-team",
+    "path": "/element/team",
+    "component": "/home/timo-beilschmidt/repos/karakale-nuxtjs/pages/element/team.vue",
+    "chunkName": "pages/element/team",
+    "_name": "_c1ef16ca"
+  },
+  {
+    "name": "element-testimonial",
+    "path": "/element/testimonial",
+    "component": "/home/timo-beilschmidt/repos/karakale-nuxtjs/pages/element/testimonial.vue",
+    "chunkName": "pages/element/testimonial",
+    "_name": "_162262d1"
+  },
+  {
+    "name": "portfolio-portfolio-ajax-filter",
+    "path": "/portfolio/portfolio-ajax-filter",
+    "component": "/home/timo-beilschmidt/repos/karakale-nuxtjs/pages/portfolio/portfolio-ajax-filter.vue",
+    "chunkName": "pages/portfolio/portfolio-ajax-filter",
+    "_name": "_6ede0ffe"
+  },
+  {
+    "name": "portfolio-portfolio-details",
+    "path": "/portfolio/portfolio-details",
+    "component": "/home/timo-beilschmidt/repos/karakale-nuxtjs/pages/portfolio/portfolio-details.vue",
+    "chunkName": "pages/portfolio/portfolio-details",
+    "_name": "_b834570a"
+  },
+  {
+    "name": "portfolio-portfolio-details-image-with-caption",
+    "path": "/portfolio/portfolio-details-image-with-caption",
+    "component": "/home/timo-beilschmidt/repos/karakale-nuxtjs/pages/portfolio/portfolio-details-image-with-caption.vue",
+    "chunkName": "pages/portfolio/portfolio-details-image-with-caption",
+    "_name": "_7e28525a"
+  },
+  {
+    "name": "portfolio-portfolio-details-left-wide",
+    "path": "/portfolio/portfolio-details-left-wide",
+    "component": "/home/timo-beilschmidt/repos/karakale-nuxtjs/pages/portfolio/portfolio-details-left-wide.vue",
+    "chunkName": "pages/portfolio/portfolio-details-left-wide",
+    "_name": "_0c108e07"
+  },
+  {
+    "name": "portfolio-portfolio-details-right",
+    "path": "/portfolio/portfolio-details-right",
+    "component": "/home/timo-beilschmidt/repos/karakale-nuxtjs/pages/portfolio/portfolio-details-right.vue",
+    "chunkName": "pages/portfolio/portfolio-details-right",
+    "_name": "_75a9d4ca"
+  },
+  {
+    "name": "portfolio-portfolio-details-right-wide",
+    "path": "/portfolio/portfolio-details-right-wide",
+    "component": "/home/timo-beilschmidt/repos/karakale-nuxtjs/pages/portfolio/portfolio-details-right-wide.vue",
+    "chunkName": "pages/portfolio/portfolio-details-right-wide",
+    "_name": "_24d0b026"
+  },
+  {
+    "name": "portfolio-portfolio-grid-boxed",
+    "path": "/portfolio/portfolio-grid-boxed",
+    "component": "/home/timo-beilschmidt/repos/karakale-nuxtjs/pages/portfolio/portfolio-grid-boxed.vue",
+    "chunkName": "pages/portfolio/portfolio-grid-boxed",
+    "_name": "_b80aa18c"
+  },
+  {
+    "name": "portfolio-portfolio-grid-filter",
+    "path": "/portfolio/portfolio-grid-filter",
+    "component": "/home/timo-beilschmidt/repos/karakale-nuxtjs/pages/portfolio/portfolio-grid-filter.vue",
+    "chunkName": "pages/portfolio/portfolio-grid-filter",
+    "_name": "_73282318"
+  },
+  {
+    "name": "portfolio-portfolio-grid-metro-01",
+    "path": "/portfolio/portfolio-grid-metro-01",
+    "component": "/home/timo-beilschmidt/repos/karakale-nuxtjs/pages/portfolio/portfolio-grid-metro-01.vue",
+    "chunkName": "pages/portfolio/portfolio-grid-metro-01",
+    "_name": "_71f24e55"
+  },
+  {
+    "name": "portfolio-portfolio-grid-metro-02",
+    "path": "/portfolio/portfolio-grid-metro-02",
+    "component": "/home/timo-beilschmidt/repos/karakale-nuxtjs/pages/portfolio/portfolio-grid-metro-02.vue",
+    "chunkName": "pages/portfolio/portfolio-grid-metro-02",
+    "_name": "_720065d6"
+  },
+  {
+    "name": "portfolio-portfolio-grid-wide",
+    "path": "/portfolio/portfolio-grid-wide",
+    "component": "/home/timo-beilschmidt/repos/karakale-nuxtjs/pages/portfolio/portfolio-grid-wide.vue",
+    "chunkName": "pages/portfolio/portfolio-grid-wide",
+    "_name": "_2dd6fa1a"
+  },
+  {
+    "name": "portfolio-portfolio-with-caption",
+    "path": "/portfolio/portfolio-with-caption",
+    "component": "/home/timo-beilschmidt/repos/karakale-nuxtjs/pages/portfolio/portfolio-with-caption.vue",
+    "chunkName": "pages/portfolio/portfolio-with-caption",
+    "_name": "_12cecef6"
+  },
+  {
+    "name": "blog-category-slug",
+    "path": "/blog/category/:slug?",
+    "component": "/home/timo-beilschmidt/repos/karakale-nuxtjs/pages/blog/category/_slug.vue",
+    "chunkName": "pages/blog/category/_slug",
+    "_name": "_bc4a0dea"
+  },
+  {
+    "name": "blog-tag-slug",
+    "path": "/blog/tag/:slug?",
+    "component": "/home/timo-beilschmidt/repos/karakale-nuxtjs/pages/blog/tag/_slug.vue",
+    "chunkName": "pages/blog/tag/_slug",
+    "_name": "_d115761a"
+  },
+  {
+    "name": "blog-slug",
+    "path": "/blog/:slug?",
+    "component": "/home/timo-beilschmidt/repos/karakale-nuxtjs/pages/blog/_slug.vue",
+    "chunkName": "pages/blog/_slug",
+    "_name": "_609fec28"
+  },
+  {
+    "name": "portfolio-slug",
+    "path": "/portfolio/:slug?",
+    "component": "/home/timo-beilschmidt/repos/karakale-nuxtjs/pages/portfolio/_slug.vue",
+    "chunkName": "pages/portfolio/_slug",
+    "_name": "_6a78ffc8"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/home/timo-beilschmidt/repos/karakale-nuxtjs/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_47c3d557"
+  }
+]

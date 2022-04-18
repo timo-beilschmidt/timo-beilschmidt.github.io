@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/blog/1950s-up-to-now-pop-music-defined-10", {data:[{}],fetch:{},mutations:void 0});

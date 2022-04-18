@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/blog/healthy-eating-with-fruit-and-vegetables-32", {data:[{}],fetch:{},mutations:void 0});

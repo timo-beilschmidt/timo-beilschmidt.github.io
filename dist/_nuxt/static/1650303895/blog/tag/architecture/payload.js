@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/blog/tag/architecture", {data:[{}],fetch:{},mutations:void 0});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/home-design-studio", {data:[{}],fetch:{},mutations:void 0});

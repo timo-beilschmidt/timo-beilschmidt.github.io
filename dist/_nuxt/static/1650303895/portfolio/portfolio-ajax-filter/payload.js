@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/portfolio/portfolio-ajax-filter", {data:[{}],fetch:{},mutations:void 0});

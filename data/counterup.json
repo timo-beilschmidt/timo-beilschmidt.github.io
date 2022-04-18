@@ -1,0 +1,40 @@
+{
+    "sectionSubTitle": "Unsere Statistiken",
+    "SectionTitle": "We always ready <br> for a <span>challenge.</span>",
+    "SectionTitleText": "Nothing is more important than having a <br> desire deep down to achieve goals.",
+    "counters": [
+        {
+            "id": 1,
+            "count": "2.700.000",
+            "heading": "Unfälle pro Jahr",
+            "desc": "Since its establishment in 2000, Brook Creative has been focusing on project management & implementation through cooperation.",
+            "icon": "ion-ios-medkit-outline"
+        },
+        {
+            "id": 2,
+            "count": "650.000",
+            "heading": "Unfälle ohne Gutachter",
+            "desc": "In total, Brook Creative has created more than 2000 projects related to constructional designing and landscaping worldwide.",
+            "icon": "ion-ios-pie-outline"
+        },
+
+        {
+            "id": 3,
+            "count": "10+",
+            "heading": "Jahre Erfahrung",
+            "icon": "ion-ios-people-outline"
+        },
+        {
+            "id": 4,
+            "count": "1234",
+            "heading": "Completed projects",
+            "icon": "ion-ios-filing-outline"
+        },
+        {
+            "id": 5,
+            "count": "4585",
+            "heading": "Global partners",
+            "icon": "ion-ios-home-outline"
+        }
+    ]
+}

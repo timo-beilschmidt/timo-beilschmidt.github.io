@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/blog/category/life-style", {data:[{}],fetch:{},mutations:void 0});

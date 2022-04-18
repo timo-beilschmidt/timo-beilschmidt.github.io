@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/home-photo-slider-gallery", {data:[{}],fetch:{},mutations:void 0});

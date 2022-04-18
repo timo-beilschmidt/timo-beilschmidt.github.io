@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/portfolio/digital-marketing-basics-7", {data:[{}],fetch:{},mutations:void 0});
