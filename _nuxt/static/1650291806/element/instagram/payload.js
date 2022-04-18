@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/element/instagram", {data:[{}],fetch:{},mutations:void 0});

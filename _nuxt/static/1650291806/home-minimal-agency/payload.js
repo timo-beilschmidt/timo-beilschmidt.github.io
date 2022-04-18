@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/home-minimal-agency", {data:[{}],fetch:{},mutations:void 0});

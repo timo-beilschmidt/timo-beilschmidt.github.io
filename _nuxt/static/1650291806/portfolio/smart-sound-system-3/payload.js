@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/portfolio/smart-sound-system-3", {data:[{}],fetch:{},mutations:void 0});

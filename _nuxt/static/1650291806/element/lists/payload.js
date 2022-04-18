@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/element/lists", {data:[{}],fetch:{},mutations:void 0});

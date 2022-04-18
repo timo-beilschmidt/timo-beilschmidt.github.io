@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/blog/blog-details-modern-layout", {data:[{}],fetch:{},mutations:void 0});
