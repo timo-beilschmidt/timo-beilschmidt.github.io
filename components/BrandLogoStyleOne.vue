@@ -13,7 +13,7 @@
                         <h6 class="heading heading-h6 font-16 line-height-1-88 font-medium body-color">Als Partner der TÜV NORD bieten wir Ihnen Hauptuntersuchungen an.</h6>
                         <div class="bkseparator--35"></div>
                         <div class="brand-btn">
-                            <n-link to="/services-modern" class="moredetails-btn red-color">
+                            <n-link to="/leistungen" class="moredetails-btn red-color">
                                 Weitere Leistungen
                                 <i class="fa fa-arrow-right"></i>
                             </n-link>

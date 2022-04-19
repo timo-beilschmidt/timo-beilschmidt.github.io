@@ -155,13 +155,13 @@
     .mail {
         border-radius: 100%;
         @media #{$small-mobile}{
-            background-color: #1474bc;
+            background-color: #111c81;
         }
     }
     .phone {
         border-radius: 100%;
         @media #{$small-mobile}{
-            background-color: #1474bc;
+            background-color: #111c81;
         }
     }
     .coccoc-alo-ph-circle {

@@ -5,14 +5,14 @@
             "icon": "ion-ios-search",
             "heading": "Unfall-Gutachten",
             "desc": "Egal ob es sich um einen Totalschaden oder Kratzer im Lack handelt, wir helfen Ihnen gerne und erstellen für Sie Ihr Gutachten. Wir freuen uns auf Sie!",
-            "link": "/contact-us-modern"
+            "link": "/kontakt"
         },
         {
             "id": 2,
             "icon": "ion-ios-information-outline",
             "heading": "Oldtimer-Gutachten",
             "desc": "Sie wollen ein H-Kennzeichen oder sind am Kauf oder Verkauf klassischer Fahrzeuge interessiert? Dann ist ein Oldtimer-Gutachten das richtige für Sie!",
-            "link": "/contact-us-modern"
+            "link": "/kontakt"
         },
         {
             "id": 3,
@@ -20,14 +20,14 @@
             "alt": "Hauptuntersuchung Plakette Icon",
             "heading": "Hauptuntersuchungen",
             "desc": "Als eine amtlich anerkannte Prüforganisation bieten wir Hauptuntersuchungen an.",
-            "link": "/contact-us-modern"
+            "link": "/kontakt"
         },
         {
             "id": 4,
             "icon": "ion-ios-telephone-outline",
             "heading": "Kontaktperson",
             "desc": "Kfz Gutachten Karakale erstellt für Sie Gutachten und kümmert sich um Ihre Schäden. Wir stehen Ihnen gerne zur Verfügung!",
-            "link": "/contact-us-modern"
+            "link": "/kontakt"
         },
         {
             "id": 5,
@@ -40,7 +40,7 @@
             "icon": "ion-ios-location-outline",
             "heading": "Vorort",
             "desc": "Sie suchen einen Mechaniker oder Kfz-Gutachter in der Region Bonn und Umgebung? Dann sind Sie bei uns genau richtig.",
-            "link": "/contact-us-modern"
+            "link": "/kontakt"
         },
         {
             "id": 7,

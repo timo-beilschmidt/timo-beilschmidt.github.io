@@ -31,10 +31,10 @@
         props: ['service'],
         methods: {
             getLink(service) {
-                return service.link || "/services-modern";
+                return service.link || "/leistungen";
             },
             getIcon(service) {
-                return service.link || "/services-modern";
+                return service.link || "/leistungen";
             },
         },
     };

@@ -17,13 +17,13 @@
                         <div class="footer-menu">
                             <ul class="ft-menu-list bk-hover">
                                 <li>
-                                    <n-link to="/about-us-01">Über Uns</n-link>
+                                    <n-link to="/about">Über Uns</n-link>
                                 </li>
                                 <li>
-                                    <n-link to="/services-modern">Leistungen</n-link>
+                                    <n-link to="/leistungen">Leistungen</n-link>
                                 </li>
                                 <li>
-                                    <n-link to="/contact-us-modern">Kontakt</n-link>
+                                    <n-link to="/kontakt">Kontakt</n-link>
                                 </li>
                             </ul>
                         </div>
@@ -66,10 +66,10 @@
                     <div class="copyright-left text-left">
                         <ul class="bk-copyright-menu d-flex justify-content-center justify-content-md-start bk-hover">
                             <li>
-                                <n-link to="/portfolio/portfolio-grid-boxed">Galerie</n-link>
+                                <n-link to="/galerie">Galerie</n-link>
                             </li>
                             <li>
-                                <n-link to="/contact-us-modern">Kontakt</n-link>
+                                <n-link to="/kontakt">Kontakt</n-link>
                             </li>
                         </ul>
                     </div>
