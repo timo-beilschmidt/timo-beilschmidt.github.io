@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/blog/digital-photography-tips-essentials-9", {data:[{}],fetch:{},mutations:void 0});

@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/home-portfolio-slide", {data:[{}],fetch:{},mutations:void 0});

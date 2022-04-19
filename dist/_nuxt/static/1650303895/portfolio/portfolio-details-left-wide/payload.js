@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/portfolio/portfolio-details-left-wide", {data:[{}],fetch:{},mutations:void 0});

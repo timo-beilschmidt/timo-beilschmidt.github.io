@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/home-product-landing", {data:[{}],fetch:{},mutations:void 0});

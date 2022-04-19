@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/element/call-to-action-banner", {data:[{}],fetch:{},mutations:void 0});

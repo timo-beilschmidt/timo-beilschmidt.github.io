@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/team-carousel-02", {data:[{}],fetch:{},mutations:void 0});

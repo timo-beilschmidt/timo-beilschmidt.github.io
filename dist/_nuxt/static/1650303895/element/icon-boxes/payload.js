@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/element/icon-boxes", {data:[{}],fetch:{},mutations:void 0});

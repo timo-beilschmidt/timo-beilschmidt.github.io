@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/portfolio/portfolio-grid-boxed", {data:[{}],fetch:{},mutations:void 0});

@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/element/message-box", {data:[{}],fetch:{},mutations:void 0});

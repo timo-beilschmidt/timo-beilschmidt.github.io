@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/home-minimal-metro-grid", {data:[{}],fetch:{},mutations:void 0});

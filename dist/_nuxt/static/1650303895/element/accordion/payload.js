@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/element/accordion", {data:[{}],fetch:{},mutations:void 0});

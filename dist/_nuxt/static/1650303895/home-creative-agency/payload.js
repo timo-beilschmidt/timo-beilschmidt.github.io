@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/home-creative-agency", {data:[{}],fetch:{},mutations:void 0});

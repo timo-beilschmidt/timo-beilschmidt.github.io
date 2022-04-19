@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/blog/blog-grid-classic", {data:[{}],fetch:{},mutations:void 0});

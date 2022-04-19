@@ -27,7 +27,7 @@
                                     <i class="fab fa-instagram"></i>
                                 </a>
                             </li>
-                            <li class="whatsapp">
+                            <li class="whatsapp2">
                                 <a href="https://wa.me/4915737154376" class="link hint--bounce hint--top hint--theme" aria-label="Whatsapp">
                                     <i class="fab fa-whatsapp"></i>
                                 </a>

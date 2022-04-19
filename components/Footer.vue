@@ -38,7 +38,10 @@
                                 <a href="mailto:info@kfzguachten-karakale.de">info@kfzguachten-karakale.de</a>
                             </p>
                             <p>
-                                <a href="tel::015737154376">01573-7154376</a>
+                                <a href="tel::022896699180">Telefon: 0228-96699180</a>
+                            </p>
+                            <p>
+                                <a href="tel::015737154376">Mobil: 01573-7154376</a>
                             </p>
                         </div>
                         <div class="social-share social--transparent text-white">

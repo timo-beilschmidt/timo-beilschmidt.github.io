@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/blog/tag/food", {data:[{}],fetch:{},mutations:void 0});

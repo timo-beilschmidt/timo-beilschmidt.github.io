@@ -9,7 +9,7 @@
                             <div class="header-left flex-20">
                                 <div class="logo">
                                     <n-link to="/">
-                                        <img src="/img/logo/logo_karakale.svg" alt="Logo von Kfz Gutachten Karakale">
+                                        <img src="/img/logo/logo_karakale.svg" alt="Logo von Kfz Gutachten Karakale in Farbe.">
                                     </n-link>
                                 </div>
                             </div>

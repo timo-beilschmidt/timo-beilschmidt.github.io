@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/portfolio/measure-digital-progress-8", {data:[{}],fetch:{},mutations:void 0});

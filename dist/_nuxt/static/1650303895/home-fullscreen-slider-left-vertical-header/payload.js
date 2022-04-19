@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/home-fullscreen-slider-left-vertical-header", {data:[{}],fetch:{},mutations:void 0});

@@ -9,7 +9,7 @@
                             <div class="header-left flex-20">
                                 <div class="logo">
                                     <n-link to="/">
-                                        <img src="/img/logo/logo-black.svg" alt="Brook Logo">
+                                        <img src="/img/logo/logo-black.svg" alt="Logo von Kfz Gutachten Karakale in dunkel.">
                                     </n-link>
                                 </div>
                             </div>

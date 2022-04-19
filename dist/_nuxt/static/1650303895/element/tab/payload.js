@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/element/tab", {data:[{}],fetch:{},mutations:void 0});

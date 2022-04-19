@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/blog/niche-blogs-for-rising-metal-bands-14", {data:[{}],fetch:{},mutations:void 0});

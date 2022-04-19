@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/portfolio/portfolio-details-image-with-caption", {data:[{}],fetch:{},mutations:void 0});

@@ -7,27 +7,27 @@
                 </li>
 
                 <li class="menu-item-has-children">
-                    <n-link to="/services-modern">Leistungen</n-link>
+                    <n-link to="/leistungen">Leistungen</n-link>
                 </li>
 
                 <li class="menu-item-has-children">
-                    <n-link to="/portfolio/portfolio-grid-wide">Galerie</n-link>
+                    <n-link to="/galerie">Galerie</n-link>
                 </li>
 
                 <li class="menu-item-has-children">
-                    <n-link to="/about-us-01">Über Uns</n-link>
+                    <n-link to="/about">Über Uns</n-link>
                 </li>
 
                 <li class="menu-item-has-children">
-                    <n-link to="/contact-us-modern">Kontakt</n-link>
+                    <n-link to="/kontakt">Kontakt</n-link>
                 </li>
 
                 <li class="menu-item-has-children">
-                    <n-link to="/">Datenschutz</n-link>
+                    <n-link to="/datenschutz">Datenschutz</n-link>
                 </li>
 
                 <li class="menu-item-has-children">
-                    <n-link to="/">Impressum</n-link>
+                    <n-link to="/impressum">Impressum</n-link>
                 </li>
             </ul>
         </nav>

@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/element/flexible-image-slider", {data:[{}],fetch:{},mutations:void 0});

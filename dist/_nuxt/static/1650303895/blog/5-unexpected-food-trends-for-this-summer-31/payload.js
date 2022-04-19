@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/blog/5-unexpected-food-trends-for-this-summer-31", {data:[{}],fetch:{},mutations:void 0});

@@ -8,33 +8,33 @@
             </li>
 
             <li class="lavel-1">
-                <n-link to="/services-modern">
+                <n-link to="/leistungen">
                     <span>Leistungen</span>
                 </n-link>
             </li>
 
             <li class="lavel-1">
-                <n-link to="/portfolio/portfolio-grid-wide">
+                <n-link to="/galerie">
                     <span>Galerie</span>
                 </n-link>
             </li>
 
             <li class="lavel-1">
-                <n-link to="/about-us-01">
+                <n-link to="/about">
                     <span>Über Uns</span>
                 </n-link>
             </li>
 
             <li class="lavel-1">
-                <n-link to="/contact-us-modern">
+                <n-link to="/kontakt">
                     <span>Kontakt</span>
                 </n-link>
             </li><li class="lavel-1">
-                <n-link to="/">
+                <n-link to="/datenschutz">
                     <span>Datenschutz</span>
                 </n-link>
             </li><li class="lavel-1">
-                <n-link to="/">
+                <n-link to="/impressum">
                     <span>Impressum</span>
                 </n-link>
             </li>

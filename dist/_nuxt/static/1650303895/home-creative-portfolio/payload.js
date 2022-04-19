@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/home-creative-portfolio", {data:[{}],fetch:{},mutations:void 0});

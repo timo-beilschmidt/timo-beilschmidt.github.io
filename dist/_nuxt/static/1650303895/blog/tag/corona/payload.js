@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/blog/tag/corona", {data:[{}],fetch:{},mutations:void 0});

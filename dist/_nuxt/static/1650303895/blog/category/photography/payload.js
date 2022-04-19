@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/blog/category/photography", {data:[{}],fetch:{},mutations:void 0});

@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/portfolio/the-language-of-designs-1", {data:[{}],fetch:{},mutations:void 0});

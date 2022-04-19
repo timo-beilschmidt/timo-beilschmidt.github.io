@@ -6,7 +6,7 @@
                     <div class="branding">
                         <div class="logo">
                             <n-link to="/">
-                                <img src="/img/logo/simple-light-logo.png" alt="brook logo">
+                                <img src="/img/logo/simple-light-logo.png" alt="Logo von Kfz Gutachten Karakale.">
                             </n-link>
                         </div>
                     </div>
