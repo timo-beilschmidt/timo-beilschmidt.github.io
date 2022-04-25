@@ -5,7 +5,7 @@
     "counters": [
         {
             "id": 1,
-            "count": "2.700.000",
+            "count": "2.300.000",
             "heading": "Unfälle pro Jahr",
             "desc": "Since its establishment in 2000, Brook Creative has been focusing on project management & implementation through cooperation.",
             "icon": "ion-ios-medkit-outline"
@@ -20,7 +20,7 @@
 
         {
             "id": 3,
-            "count": "10+",
+            "count": "20+",
             "heading": "Jahre Erfahrung",
             "icon": "ion-ios-people-outline"
         },

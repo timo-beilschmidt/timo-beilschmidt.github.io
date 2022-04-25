@@ -15,19 +15,6 @@ and limitations under the License.
 
 
 /*!
-  * vue-router v3.5.3
-  * (c) 2021 Evan You
-  * @license MIT
-  */
-
-/*!
- * Vue.js v2.6.14
- * (c) 2014-2021 Evan You
- * Released under the MIT License.
- */
-
-
-/*!
  * BootstrapVue Icons, generated from Bootstrap Icons 1.2.2
  *
  * @link https://icons.getbootstrap.com/
@@ -136,4 +123,17 @@ and limitations under the License.
  *
  *            Non-commercial use permitted under same terms as CC BY-NC 3.0 license.
  *            http://creativecommons.org/licenses/by-nc/3.0/
+ */
+
+
+/*!
+  * vue-router v3.5.3
+  * (c) 2021 Evan You
+  * @license MIT
+  */
+
+/*!
+ * Vue.js v2.6.14
+ * (c) 2014-2021 Evan You
+ * Released under the MIT License.
  */

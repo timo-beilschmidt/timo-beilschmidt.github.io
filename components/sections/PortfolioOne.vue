@@ -1,12 +1,12 @@
 <template>
-    <div class="bk-portfolio-area">
-        <div class="black-bg-wrapper bg_color--3 section-pt-xl pb--240">
+    <div class="brook-portfolio-area">
+        <div class="black-bg-wrapper bg-image-nature bg_color--1 section-pt-xl pb--240">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12">
-                        <div class="section-title text-center white-text wow move-up">
+                        <div class="section-title text-center wow move-up">
                             <h3>Unser Versprechen</h3>
-                            <h2>Bei nicht Erhalt der Schadensersatz Summe durch Ablehnung der Versicherung, verzichten wir auf unser Honorar.</h2>
+                            <h2>*persönlich *unabhängig *schnell *fair *nachhaltig. <br> Für jedes Gutachten pflanzen wir einen Baum</h2>
                         </div>
                     </div>
                 </div>
@@ -107,5 +107,18 @@
 </script>
 
 <style lang="scss">
-
+    .bg-image-nature{
+        background-image: url(/img/slider/presentation/home-presentation-image-02.jpg);
+        position: relative;
+        &::before{
+            position: absolute;
+            background: #fff;
+            content: "";
+            left: 0;
+            top: 0;
+            width: 100%;
+            height: 100%;
+            opacity: 0.3;
+        }
+    }
 </style>

@@ -6,7 +6,7 @@
                 <div class="col-xl-3 col-lg-3 col-12">
                     <div class="address-inner">
                         <div class="address wow move-up">
-                            <h3 class="heading">Kommen Sie zu unserer Werkstatt</h3>
+                            <h3 class="heading">Kommen Sie zu unserer Prüfstelle</h3>
                             <p>Siemensstr. 1,<br>53121 Bonn</p>
                         </div>
 

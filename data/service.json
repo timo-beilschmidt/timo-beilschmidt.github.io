@@ -4,132 +4,59 @@
             "id": 1,
             "icon": "ion-ios-search",
             "heading": "Unfall-Gutachten",
-            "desc": "Egal ob es sich um einen Totalschaden oder Kratzer im Lack handelt, wir helfen Ihnen gerne und erstellen für Sie Ihr Gutachten. Wir freuen uns auf Sie!",
-            "link": "/kontakt"
+            "desc": "Wir begutachten für Sie sämtliche Fahrzeugklassen. Sowohl PKW, LKW, Motorrad als auch Wohnmobile sind Bestandteile unsere Expertise."
         },
         {
             "id": 2,
             "icon": "ion-ios-information-outline",
             "heading": "Oldtimer-Gutachten",
-            "desc": "Sie wollen ein H-Kennzeichen oder sind am Kauf oder Verkauf klassischer Fahrzeuge interessiert? Dann ist ein Oldtimer-Gutachten das richtige für Sie!",
-            "link": "/kontakt"
+            "desc": "Sie wollen ein H-Kennzeichen oder sind am Kauf oder Verkauf klassischer Fahrzeuge interessiert? Dann ist ein Oldtimer-Gutachten das richtige für Sie!"
         },
         {
             "id": 3,
             "img": "icon-hauptuntersuchung.svg",
             "alt": "Hauptuntersuchung Plakette Icon",
             "heading": "Hauptuntersuchungen",
-            "desc": "Als eine amtlich anerkannte Prüforganisation bieten wir Hauptuntersuchungen an.",
-            "link": "/kontakt"
+            "desc": "Als eine amtlich anerkannte Prüforganisation bieten wir Hauptuntersuchungen an."
         },
         {
             "id": 4,
-            "icon": "ion-ios-telephone-outline",
-            "heading": "Kontaktperson",
-            "desc": "Kfz Gutachten Karakale erstellt für Sie Gutachten und kümmert sich um Ihre Schäden. Wir stehen Ihnen gerne zur Verfügung!",
-            "link": "/kontakt"
+            "icon": "ion-ios-bolt-outline",
+            "heading": "e-Auto Gutachten",
+            "desc": "Vor Veränderungen schrecken wir nicht zurück. Elektromobilität ist für uns Herzenssache und Bestandteil unserer Expertise."
         },
         {
             "id": 5,
+            "icon": "ion-ios-pricetags-outline",
+            "heading": "Wertgutachten",
+            "desc": "Sie haben einen Fahrzeug dessen Wert sie nicht kennen?!? Mit einem Wertgutachten können wir den richtigen Preis für Ihr Fahrzeug finden."
+        },
+        {
+            "id": 6,
+            "icon": "ion-ios-telephone-outline",
+            "heading": "Kontaktperson",
+            "desc": "Als Gutachter sind wir seit 20 Jahren nun an Ihrer Seite. Egal ob Sachschaden, Mietwagen oder Wertminderung, wir berücksichtigen sämtliche Ansprüche.",
+            "link": "/kontakt"
+        },
+        {
+            "id": 7,
             "icon": "ion-ios-cart-outline",
             "heading": "Kostenlos",
-            "desc": "Wir machen Ihr Gutachten für Sie kostenfrei. Schauen Sie doch bei unseren Leistungen vorbei und überzeugen Sie sich selbst."
-        },
-        {
-            "id": 6,
-            "icon": "ion-ios-location-outline",
-            "heading": "Vorort",
-            "desc": "Sie suchen einen Mechaniker oder Kfz-Gutachter in der Region Bonn und Umgebung? Dann sind Sie bei uns genau richtig.",
-            "link": "/kontakt"
-        },
-        {
-            "id": 7,
-            "icon": "ion-ios-pulse",
-            "heading": "Reperaturen",
-            "desc": "Egal ob es sich um Motor- oder Maderschäden handelt, wir helfen Ihnen gerne. Schauen Sie doch in unserer Galerie vorbei und machen Sie sich ein eigenes Bild.",
-            "link": "/portfolio-grid-boxed"
-        },
-        {
-            "id": 4,
-            "icon": "ion-ios-telephone-outline",
-            "heading": "Kontaktperson",
-            "desc": "Kfz Gutachten Karakale erstellt für Sie Gutachten und kümmert sich um Schäden. Wir freuen uns auf Ihren Kontakt!",
-            "link": "/contact-us-modern"
-        },
-        {
-            "id": 5,
-            "icon": "ion-ios-infinite-outline",
-            "heading": "Multi-purpose Use",
-            "desc": "Brook embraces a modern look with various enhanced pre-defined page elements."
-        },
-        {
-            "id": 6,
-            "icon": "ion-ios-cloudy-outline",
-            "heading": "Responsive Layouts",
-            "desc": "Brook is highly responsive thanks to built-in WP Bakery Page Builder & Slider Revolution."
-        },
-
-        {
-            "id": 7,
-            "icon": "/img/service/home-creative-agency-box-image-01.png",
-            "heading": "Modern Design",
-            "desc": "Brook embraces a modern look with various enhanced pre-defined page elements."
+            "desc": "Bei einem unverschuldeten Unfall ist das Gutachten für sie komplett kostenfrei."
         },
         {
             "id": 8,
-            "icon": "/img/service/home-creative-agency-box-image-02.png",
-            "heading": "Multi-purpose Use",
-            "desc": "Brook embraces a modern look with various enhanced pre-defined page elements."
+            "icon": "ion-ios-location-outline",
+            "heading": "Vorort",
+            "desc": "<strong>NRW & Rhld-Pfalz</strong> - <br> Egal wo sie sich befinden, innerhalb unseres Service-Bereichs kommen wir zu Ihnen",
+            "link": "/kontakt"
         },
         {
             "id": 9,
-            "icon": "/img/service/home-creative-agency-box-image-03.png",
-            "heading": "Responsive Layouts",
-            "desc": "Brook is highly responsive thanks to built-in WP Bakery Page Builder & Slider Revolution."
-        },
-
-        {
-            "id": 10,
-            "icon": "/img/service/icon-box/icon-1.png",
-            "heading": "Modern Design",
-            "desc": "Brook embraces a modern look with various enhanced pre-defined page elements."
-        },
-        {
-            "id": 11,
-            "icon": "/img/service/icon-box/icon-2.png",
-            "heading": "Multi-purpose Use",
-            "desc": "Brook embraces a modern look with various enhanced pre-defined page elements."
-        },
-        {
-            "id": 12,
-            "icon": "/img/service/icon-box/icon-3.png",
-            "heading": "Responsive Layouts",
-            "desc": "Brook is highly responsive thanks to built-in WP Bakery Page Builder & Slider Revolution."
-        },
-
-        {
-            "id": 13,
-            "image": "/img/service/service-3/service-1.jpg",
-            "heading": "Resource Use",
-            "desc": "We participate in knowledge and technology transfers to promote the resource use."
-        },
-        {
-            "id": 14,
-            "image": "/img/service/service-3/service-2.jpg",
-            "heading": "UI/UX designs",
-            "desc": "We successfully implemented numerous UI/UX projects for both global & local clients."
-        },
-        {
-            "id": 15,
-            "image": "/img/service/service-3/service-3.jpg",
-            "heading": "Digital Marketing",
-            "desc": "We conduct the marketing of products & services using latest digital technologies."
-        },
-        {
-            "id": 16,
-            "image": "/img/service/service-3/service-4.jpg",
-            "heading": "SEO Marketing",
-            "desc": "Our approach is to focus on growing visibility in organic search engine results."
+            "icon": "ion-ios-pulse",
+            "heading": "Reparaturen",
+            "desc": "Egal ob es sich um Motor- oder Maderschäden handelt, wir helfen Ihnen gerne. Schauen Sie doch in unserer Galerie vorbei und machen Sie sich ein eigenes Bild.",
+            "link": "/portfolio-grid-boxed"
         }
     ],
 

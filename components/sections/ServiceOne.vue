@@ -4,13 +4,13 @@
             <div class="row">
                 <div class="col-lg-12">
                     <div class="section-title text-center wow move-up">
-                        <h3>Wir sind für Sie da!</h3>
+                        <h3>Wenn es mal kracht oder die Plakette fehlt...</h3>
                         <h2>Zu unseren Leistungen gehören Gutachten sowie Hauptuntersuchungen. Rufen sie uns einfach an oder schreiben sie uns auf Insta oder per Mail. Wir freuen uns auf Sie!</h2>
                     </div>
                 </div>
             </div>
             <div class="row mt--70 mt_sm--20 mt_md--30">
-                <div class="col-lg-4 col-md-6 wow move-up" v-for="service in data.services.slice(0, 6)" :key="service.id">
+                <div class="col-lg-4 col-md-6 wow move-up" v-for="service in data.services.slice(0, 8)" :key="service.id">
                     <ServiceItemOne :service="service" />
                 </div>
             </div>

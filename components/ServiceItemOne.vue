@@ -17,7 +17,7 @@
         </div>
         <div class="content">
             <h4>{{ service.heading }}</h4>
-            <p>{{ service.desc }}</p>
+            <p v-html="service.desc"></p>
             <n-link :to="getLink(service)" class="service-btn">
                 <span>Weitere Details</span> 
                 <i class="fa fa-arrow-right"></i>
@@ -31,9 +31,6 @@
         props: ['service'],
         methods: {
             getLink(service) {
-                return service.link || "/leistungen";
-            },
-            getIcon(service) {
                 return service.link || "/leistungen";
             },
         },
