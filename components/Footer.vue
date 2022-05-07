@@ -35,7 +35,7 @@
                         <div class="footer-address bk-hover mb--20">
                             <p>Siemensstr. 1, 53121 Bonn</p>
                             <p>
-                                <a href="mailto:info@kfzguachten-karakale.de">info@kfzguachten-karakale.de</a>
+                                <a href="mailto:info@ing-karakale.de">info@ing-karakale.de</a>
                             </p>
                             <p>
                                 <a href="tel::022896699180">Telefon: 0228-96699180</a>

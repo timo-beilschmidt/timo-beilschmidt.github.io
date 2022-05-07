@@ -3,49 +3,42 @@
     "name": "about",
     "path": "/about",
     "component": "/home/timo-beilschmidt/repos/karakale-nuxtjs/pages/about.vue",
-    "chunkName": "pages/about",
-    "_name": "_280bfa92"
+    "chunkName": "pages/about"
   },
   {
     "name": "datenschutz",
     "path": "/datenschutz",
     "component": "/home/timo-beilschmidt/repos/karakale-nuxtjs/pages/datenschutz.vue",
-    "chunkName": "pages/datenschutz",
-    "_name": "_3c2f0f68"
+    "chunkName": "pages/datenschutz"
   },
   {
     "name": "galerie",
     "path": "/galerie",
     "component": "/home/timo-beilschmidt/repos/karakale-nuxtjs/pages/galerie.vue",
-    "chunkName": "pages/galerie",
-    "_name": "_c6079dc0"
+    "chunkName": "pages/galerie"
   },
   {
     "name": "impressum",
     "path": "/impressum",
     "component": "/home/timo-beilschmidt/repos/karakale-nuxtjs/pages/impressum.vue",
-    "chunkName": "pages/impressum",
-    "_name": "_27ce63fc"
+    "chunkName": "pages/impressum"
   },
   {
     "name": "kontakt",
     "path": "/kontakt",
     "component": "/home/timo-beilschmidt/repos/karakale-nuxtjs/pages/kontakt.vue",
-    "chunkName": "pages/kontakt",
-    "_name": "_0c40cd65"
+    "chunkName": "pages/kontakt"
   },
   {
     "name": "leistungen",
     "path": "/leistungen",
     "component": "/home/timo-beilschmidt/repos/karakale-nuxtjs/pages/leistungen.vue",
-    "chunkName": "pages/leistungen",
-    "_name": "_35bf8dde"
+    "chunkName": "pages/leistungen"
   },
   {
     "name": "index",
     "path": "/",
     "component": "/home/timo-beilschmidt/repos/karakale-nuxtjs/pages/index.vue",
-    "chunkName": "pages/index",
-    "_name": "_47c3d557"
+    "chunkName": "pages/index"
   }
 ]

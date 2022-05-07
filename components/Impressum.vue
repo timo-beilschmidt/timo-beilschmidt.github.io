@@ -28,7 +28,7 @@
                             <h5 class="heading heading-h5 theme-color wow move-up">Kontakt</h5>
                             <div class="bkseparator--20"></div>
                             <p>Telefon: 0228-96699180</p>
-                            <p>E-Mail: info@kfzguachten-karakale.de</p>
+                            <p>E-Mail: info@ing-karakale.de</p>
                         </div>
                     </div>
                 </div>

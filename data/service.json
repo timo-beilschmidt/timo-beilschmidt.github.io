@@ -14,7 +14,7 @@
         },
         {
             "id": 3,
-            "img": "icon-hauptuntersuchung.svg",
+            "img": "icon-hauptuntersuchung-orange.svg",
             "alt": "Hauptuntersuchung Plakette Icon",
             "heading": "Hauptuntersuchungen",
             "desc": "Als eine amtlich anerkannte Prüforganisation bieten wir Hauptuntersuchungen an."
@@ -33,26 +33,50 @@
         },
         {
             "id": 6,
+            "icon": "ion-ios-compose-outline",
+            "heading": "Eintragungen",
+            "desc": "Bestimmte technische Änderungen müssen in die Fahrzeugpapiere eigetragen werden.<br>Egal, ob es sich dabei um leichte §19(3) oder umfangreiche §19(2) Änderungen handelt, wir beraten Sie gerne."
+        },
+        {
+            "id": 7,
+            "icon": "ion-ios-flame-outline",
+            "heading": "Gasanlagenprüfung",
+            "desc": "Fahrzeuge mit einer Gasanlage brauchen eine separate Untersuchung.<br>Auch hier sind wir Ihr Ansprechpartner.<br> Weiterhin bieten wir Gasanlagenprüfungen für Wohnmobile-G607- sowie Boote -G608 an."
+        },
+        {
+            "id": 8,
+            "icon": "ion-ios-speedometer-outline",
+            "heading": "Vollabnahme",
+            "desc": "Importfahrzeuge oder Fahrzeuge, die länger als 7 Jahre außer Betrieb waren, brauchen eine neue Betriebserlaubnis. Dafür (sind eine gute Recherchearbeit und) ist technisches Fachwissen gefragt.<br>Bei uns sind Sie deshalb in guten Händen."
+        },
+        {
+            "id": 9,
+            "icon": "ion-ios-people-outline",
+            "heading": "Unternehmensberatung - Kfz",
+            "desc": "Angefangen mit einer Kfz-Werkstatt haben wir uns zu einem (etablierten) erfolgreichen/aufstrebenden Ingenieurbüro entwickelt.<br>Unsere jahrelangen Erfahrungen möchten wir nun weiter vermitteln. Umstrukturierung, Firmenerweiterung, neue Innovationen und vieles mehr sind unsere Themenbereiche."
+        },
+        {
+            "id": 10,
             "icon": "ion-ios-telephone-outline",
             "heading": "Kontaktperson",
             "desc": "Als Gutachter sind wir seit 20 Jahren nun an Ihrer Seite. Egal ob Sachschaden, Mietwagen oder Wertminderung, wir berücksichtigen sämtliche Ansprüche.",
             "link": "/kontakt"
         },
         {
-            "id": 7,
+            "id": 11,
             "icon": "ion-ios-cart-outline",
             "heading": "Kostenlos",
             "desc": "Bei einem unverschuldeten Unfall ist das Gutachten für sie komplett kostenfrei."
         },
         {
-            "id": 8,
+            "id": 12,
             "icon": "ion-ios-location-outline",
             "heading": "Vorort",
             "desc": "<strong>NRW & Rhld-Pfalz</strong> - <br> Egal wo sie sich befinden, innerhalb unseres Service-Bereichs kommen wir zu Ihnen",
             "link": "/kontakt"
         },
         {
-            "id": 9,
+            "id": 13,
             "icon": "ion-ios-pulse",
             "heading": "Reparaturen",
             "desc": "Egal ob es sich um Motor- oder Maderschäden handelt, wir helfen Ihnen gerne. Schauen Sie doch in unserer Galerie vorbei und machen Sie sich ein eigenes Bild.",

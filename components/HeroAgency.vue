@@ -1,5 +1,5 @@
 <template>
-    <div class="home-creative-agency" :style="{ backgroundImage: `url('/img/other/landing_page_hero_image_logo.svg')` }">
+    <div class="home-creative-agency">
         <div class="container">
             <div class="row">
                 <div class="col-12">
@@ -25,7 +25,7 @@
             </div>
         </div>
         <!-- <div class="hero-mail">
-            <span>info@kfzguachten-karakale.de</span>
+            <span>info@ing-karakale.de</span>
         </div> -->
         <div class="hero-social">
             <ul class="social-icon icon-border-rounded icon-size-medium social-vertical text-center">
@@ -40,7 +40,7 @@
                     </a>
                 </li>
                 <li class="mail">
-                    <a href="mailto: info@kfzgutachten-karakale.de" class="link" aria-label="E-Mail">
+                    <a href="mailto: info@ing-karakale.de" class="link" aria-label="E-Mail">
                         <i class="fa fa-envelope"></i>
                     </a>
                 </li>
@@ -84,9 +84,12 @@
         display: flex; 
         align-items: center;
         text-align: center;
+        background-color: #111c81;
+        background-image: url('/img/other/landing_page_hero_image_logo.svg');
         // res
         @media #{$sm-layout}{
             height: 600px;
+            background-image: url('/img/other/landing_page_hero_image_logo_small.svg');
         }
         .hero-title {
             font-size: 120px;

@@ -5,8 +5,8 @@
                 <div class="row">
                     <div class="col-lg-12">
                         <div class="section-title text-center wow move-up">
-                            <h3>Unser Versprechen</h3>
-                            <h2>*persönlich *unabhängig *schnell *fair *nachhaltig. <br> Für jedes Gutachten pflanzen wir einen Baum</h2>
+                            <h3 class="promise">Unser Versprechen</h3>
+                            <h2>Für jedes Gutachten pflanzen wir einen Baum</h2>
                         </div>
                     </div>
                 </div>
@@ -24,8 +24,15 @@
                         <div class="port-overlay-info">
                             <div class="hover-action">
                                 <h3 class="post-overlay-title">
-                                    <n-link to="portfolio/portfolio-details">
-                                        Wir erstellen Ihr Gutachten
+                                    <n-link to="leistungen">
+                                        <p>Wir erstellen Ihr Gutachten</p>
+                                        <ul>
+                                            <li>persöhnlich</li>
+                                            <li>unabhängig</li>
+                                            <li>schnell</li>
+                                            <li>fair</li>
+                                            <li>nachhaltig</li>
+                                        </ul>
                                     </n-link>
                                 </h3>
                             </div>
@@ -46,7 +53,7 @@
                                 <div class="port-overlay-info">
                                     <div class="hover-action">
                                         <h3 class="post-overlay-title">
-                                            <n-link to="portfolio/portfolio-details">
+                                            <n-link to="leistungen">
                                                 Aufnahme des Schadens direkt vor Ort
                                             </n-link>
                                         </h3>
@@ -65,7 +72,7 @@
                                 <div class="port-overlay-info">
                                     <div class="hover-action">
                                         <h3 class="post-overlay-title">
-                                             <n-link to="portfolio/portfolio-details">
+                                             <n-link to="leistungen">
                                                Wir beraten Sie im Schadensfall
                                             </n-link>
                                         </h3>
@@ -84,7 +91,7 @@
                                 <div class="port-overlay-info">
                                     <div class="hover-action">
                                         <h3 class="post-overlay-title">
-                                            <n-link to="portfolio/portfolio-details">
+                                            <n-link to="galerie">
                                                 Kein Schaden ist zu klein
                                             </n-link>
                                         </h3>
@@ -107,9 +114,14 @@
 </script>
 
 <style lang="scss">
+    .section-title h3 {
+        font-size: 26px;
+    }
     .bg-image-nature{
-        background-image: url(/img/slider/presentation/home-presentation-image-02.jpg);
+        background-image: url(/img/bg/country-road-4599866.jpg);
         position: relative;
+        background-position-y: 100%;
+        background-position-x: 40%;
         &::before{
             position: absolute;
             background: #fff;
@@ -118,7 +130,7 @@
             top: 0;
             width: 100%;
             height: 100%;
-            opacity: 0.3;
+            opacity: 0.55;
         }
     }
 </style>

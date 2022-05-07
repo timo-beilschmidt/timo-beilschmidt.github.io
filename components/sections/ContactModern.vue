@@ -10,14 +10,14 @@
                             <div class="classic-address text-left mt--60">
                                 <h4 class="heading heading-h4 text-white">Besuchen Sie uns</h4>
                                 <div class="desc mt--15">
-                                    <p class="bk_pra line-height-2-22 text-white">Siemensstr. 1,<br>53121 Bonn</p>
+                                    <p class="bk_pra line-height-2-22 text-white">Kfz-Prüfstelle<br>Siemensstr. 1,<br>53121 Bonn</p>
                                 </div>
                             </div>
 
                             <div class="classic-address text-left mt--60">
                                 <h4 class="heading heading-h4 text-white">Kontaktieren Sie uns</h4>
                                 <div class="desc mt--15 mb--30">
-                                    <p class="bk_pra line-height-2-22 text-white"><a href="mailto:info@kfzguachten-karakale.de">info@kfzguachten-karakale.de</a><br><a href="tel::022896699180">Telefon: 0228-96699180</a><br><a href="tel::015737154376">Mobil: 01573-7154376</a></p>
+                                    <p class="bk_pra line-height-2-22 text-white"><a href="mailto:info@ing-karakale.de">info@ing-karakale.de</a><br><a href="tel::022896699180">Telefon: 0228-96699180</a><br><a href="tel::015737154376">Mobil: 01573-7154376</a></p>
                                 </div>
                                 <div class="social-share social--transparent text-white">
                                     <a href="https://www.facebook.com/CarKarakale/" target="_blank">
@@ -35,42 +35,61 @@
                         </div>
                     </div>
                 </div>
-                <!-- <div class="col-lg-6 col-12 pl--50">
+                <div class="col-lg-6 col-12 pl--50">
                     <div class="contact-form">
-                        <form id="contact-form">
-                            <div class="row">
-                                <div class="col-lg-12">
-                                    <input name="con_name" type="text" placeholder="Name *">
-                                </div>
-
-                                <div class="col-lg-12 mt--30">
-                                    <input name="con_email" type="text" placeholder="Email *">
-                                </div>
-
-                                <div class="col-lg-12 mt--30">
-                                    <input type="text" name="con_phone" placeholder="Phone number">
-                                </div>
-
-                                <div class="col-lg-12 mt--30">
-                                    <textarea name="con_message" placeholder="Your message"></textarea>
-                                </div>
-
-                                <div class="col-12 mt--30">
-                                    <div class="check-box">
-                                        <input type="checkbox" name="check" id="check">
-                                        <label for="check">I agree this terms and condition.</label>
-                                    </div>
-                                </div>
-
-                                <div class="col-lg-12 mt--30">
-                                    <input type="submit" value="Send message">
-                                    <p class="form-messege"></p>
-                                </div>
-                            </div>
-                        </form>
+                        <div class="business-hours">
+                            <h2 class="title">Öffnungszeiten</h2>
+                            <ul class="list-unstyled opening-hours">
+                                <li>Montag <span class="pull-right">Nach Absprache</span></li>
+                                <li>Dienstag <span class="pull-right">14:30-17:30</span></li>
+                                <li>Mittwoch <span class="pull-right">14:30-17:30</span></li>
+                                <li>Donnerstag <span class="pull-right">14:30-17:30</span></li>
+                                <li>Freitag <span class="pull-right">9:30-12:00</span></li>
+                                <li>Samstag <span class="pull-right">Nach Absprache</span></li>
+                            </ul>
+                        </div>
                     </div>
-                </div> -->
+                </div>
             </div>
         </div>
     </div>
 </template>
+
+<style lang="scss" scoped>
+
+.business-hours {
+    background: #222; 
+    padding: 40px 14px;
+    margin-top: -15px;
+    position: relative;
+}
+.business-hours:before{
+    content: '';
+    width: 23px;
+    height: 23px;
+    background: #111;
+    position: absolute;
+    top: 5px;
+    left: -12px;
+    transform: rotate(-45deg);
+    z-index: -1;
+}
+.business-hours .title {
+    font-size: 20px;
+    color: #BBB;
+    text-transform: uppercase;
+    padding-left: 5px;
+    border-left: 4px solid #ffac0c; 
+}
+.business-hours li {
+    color: #888;
+    line-height: 30px;
+    border-bottom: 1px solid #333; 
+}
+.business-hours li:last-child {
+    border-bottom: none; 
+}
+.business-hours .opening-hours li.today {
+    color: #ffac0c; 
+}
+</style>

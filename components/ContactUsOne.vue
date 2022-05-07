@@ -12,7 +12,8 @@
 
                         <div class="address mt--60 mb--60 wow move-up">
                             <h3 class="heading">Oder kontaktieren Sie uns</h3>
-                            <p><a href="mailto:info@kfzguachten-karakale.de">info@kfzguachten-karakale.de</a></p>
+                            <p><a href="mailto:info@ing-karakale.de">info@ing-karakale.de</a></p>
+                            <p><a href="tel:022896699180">0228-96699180</a></p>
                             <p><a href="tel:015737154376">01573-7154376</a></p>
                         </div>
 

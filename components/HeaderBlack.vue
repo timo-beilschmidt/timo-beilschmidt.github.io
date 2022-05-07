@@ -81,21 +81,21 @@
 
     .tuev-logo{
         a{
-            &:hover{
+            /* &:hover{
                 img{
                     -webkit-filter: none;
                     filter: none;
                     opacity: 1;
                 }
-            }
+            } */
             img{
                 max-width: 100px;
                 height: auto;
-                -webkit-filter: grayscale(100%);
+                /* -webkit-filter: grayscale(100%);
                 filter: grayscale(100%);
                 opacity: .3;
                 -webkit-transition: all .3s linear;
-                transition: all .3s linear;
+                transition: all .3s linear; */
                 display: inline-block;
             }
         }
