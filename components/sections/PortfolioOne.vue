@@ -27,7 +27,7 @@
                                     <n-link to="leistungen">
                                         <p>Wir erstellen Ihr Gutachten</p>
                                         <ul>
-                                            <li>persöhnlich</li>
+                                            <li>persönlich</li>
                                             <li>unabhängig</li>
                                             <li>schnell</li>
                                             <li>fair</li>
