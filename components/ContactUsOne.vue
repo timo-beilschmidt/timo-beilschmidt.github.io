@@ -39,25 +39,25 @@
                 </div>
             </div>
                         
-            <div class="my-4 google-map-essential">
+            <!-- <div class="my-4 google-map-essential">
                 <GoogleMap />
-            </div>
+            </div> -->
         </div>
     </div>
 </template>
 
 <script>
     export default {
-        components: {
+        /* components: {
             GoogleMap: () => import('@/components/GoogleMap'),
-        },
+        }, */
     };
 </script>
 
 <style lang="scss">
-    .google-map-essential {
+    /* .google-map-essential {
         .vue-map-container {
             height: 300px !important;
         }
-    }
+    } */
 </style>

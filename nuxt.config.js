@@ -10,6 +10,9 @@ export default {
     ** Headers of the page
     */
     head: {
+        htmlAttrs: {
+            lang: 'de'
+        },
         title: 'Kfz Gutachten und Prüfbüro Karakale',
         titleTemplate: 'Kfz Gutachten Karakale || %s',
         meta: [
@@ -18,11 +21,12 @@ export default {
             { 
                 hid: 'description', 
                 name: 'description', 
-                content: 'Kfz Gutachten und Prüfbüro Karakale bietet Hauptuntersuchungen (TÜV) und Gutachten jeder Art an. Darunter fallen Oldtimer, Unfall, e-Auto Gutachten und viele mehr.'
+                content: 'Kfz Gutachten und Prüfbüro Karakale bietet Hauptuntersuchungen (TÜV) und Gutachten jeder Art an. (z.B. Oldtimer-, Unfall-, e-Auto Gutachten)'
             }
         ],
         link: [
-            { rel: 'icon', type: 'image/x-icon', href: '/favicon_white.png' }
+            { rel: 'icon', type: 'image/x-icon', href: '/favicon_logo.png' },
+            { rel: 'apple-touch-icon', type: 'image/x-icon', href: '/favicon_logo.png' }
         ]
     },
 
@@ -55,6 +59,7 @@ export default {
     modules: [
         'bootstrap-vue/nuxt',
         '@nuxtjs/style-resources',
+        'vue-social-sharing/nuxt',
     ],
 
     styleResources: {

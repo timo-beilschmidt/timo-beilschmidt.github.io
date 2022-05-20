@@ -17,7 +17,7 @@
                                 </template>
                             </silent-box>
                         </client-only>
-                        <h1 class="hero-title">Kfz Gutachten und Prüfbüro Karakale</h1>
+                        <h1 class="hero-title">Kfz Gutachten und Prüfbüro Karakale Hauptseite</h1>
                         <!-- <img src="/img/slider/creative-agency-wave.png" alt="wave icon"> -->
                         <h6>WENN ES MAL KRACHT ODER DIE PLAKETTE FEHLT...</h6>
                     </div>

@@ -28,6 +28,11 @@
                                         <i class="fa fa-search"></i>
                                     </button>
                                 </div> -->
+                                <div class="tuev-logo">
+                                    <a href="https://www.tuev-nord.de/de/">
+                                        <img src="/img/other/TUV_NORD_PARTNER_SCHWARZ.svg" alt="Logo von dem Partner TÜV Nord für Hauptuntersuchungen.">
+                                    </a>
+                                </div>
 
                                 <!-- Start Hamberger -->
                                 <div class="manu-hamber popup-mobile-click d-block d-lg-none black-version d-block d-xl-none" @click="$emit('togglenav')">
@@ -68,5 +73,14 @@
         background-color: #fff;
         box-shadow: 0 0 8px 1px rgba(0, 0, 0, 0.2);
         animation: 900ms cubic-bezier(0.2, 1, 0.22, 1) 0s normal none 1 running fadeInDown;
+    }
+    .tuev-logo{
+        a{
+            img{
+                max-width: 100px;
+                height: auto;
+                display: inline-block;
+            }
+        }
     }
 </style>

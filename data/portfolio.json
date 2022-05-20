@@ -62,7 +62,7 @@
         },
         {
             "id": 2,
-            "image": "/img/gallery/images/image-02.jpg",
+            "image": "/img/other/DSC08203.jpg",
             "heading": "Werkstatt mit Oldtimer",
             "slug": "b-sharp-high-end-audio-2",
             "category": "Marketing",
@@ -94,7 +94,7 @@
         },
         {
             "id": 6,
-            "image": "/img/gallery/images/image-06.JPG",
+            "image": "/img/other/Bild SL.JPG",
             "heading": "Mercedes SL Oldtimer",
             "slug": "enchanting-portrait-hacks-6",
             "category": "Photography",
@@ -140,7 +140,7 @@
         },
         {
             "id": 12,
-            "image": "/img/gallery/images/image-12.JPG",
+            "image": "/img/other/IMG_9415.JPG",
             "heading": "Mercedes mit gebrochener Achse",
             "slug": "b-sharp-high-end-audio-12",
             "category": "Design",

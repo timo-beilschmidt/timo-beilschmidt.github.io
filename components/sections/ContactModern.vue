@@ -35,18 +35,42 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-6 col-12 pl--50">
+                <div class="col-lg-6 col-12 pl--50 pr--50 ptb-md--80 ptb-sm--80 pb--250">
                     <div class="contact-form">
                         <div class="business-hours">
-                            <h2 class="title">Öffnungszeiten</h2>
-                            <ul class="list-unstyled opening-hours">
-                                <li>Montag <span class="pull-right">Nach Absprache</span></li>
-                                <li>Dienstag <span class="pull-right">14:30-17:30</span></li>
-                                <li>Mittwoch <span class="pull-right">14:30-17:30</span></li>
-                                <li>Donnerstag <span class="pull-right">14:30-17:30</span></li>
-                                <li>Freitag <span class="pull-right">9:30-12:00</span></li>
-                                <li>Samstag <span class="pull-right">Nach Absprache</span></li>
-                            </ul>
+                            <h2 class="title">Öffnungszeiten HU</h2>
+                            <div class="row opening-hours">
+                                <div class="col-6">Montag: </div>
+                                <div class="col-6 pull-right">Nach Absprache</div>
+                            </div>
+                            <div class="row opening-hours">
+                                <div class="col-6">Dienstag: </div>
+                                <div class="col-6 pull-right">14:30-17:30</div>
+                            </div>
+                            <div class="row opening-hours">
+                                <div class="col-6">Mittwoch: </div>
+                                <div class="col-6 pull-right">14:30-17:30</div>
+                            </div>
+                            <div class="row opening-hours">
+                                <div class="col-6">Donnerstag: </div>
+                                <div class="col-6 pull-right">14:30-17:30</div>
+                            </div>
+                            <div class="row opening-hours">
+                                <div class="col-6">Freitag: </div>
+                                <div class="col-6 pull-right">9:30-12:00</div>
+                            </div>
+                            <div class="row opening-hours">
+                                <div class="col-6">Samstag: </div>
+                                <div class="col-6 pull-right">Nach Absprache</div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="contact-form pt--60">
+                        <div class="business-hours">
+                            <h2 class="title">Öffnungszeiten Gutachten</h2>
+                            <div class="row opening-hours">
+                                <div class="col-12">Nach Absprache jeder Zeit</div>
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -56,40 +80,25 @@
 </template>
 
 <style lang="scss" scoped>
-
 .business-hours {
-    background: #222; 
+    background: #000; 
     padding: 40px 14px;
     margin-top: -15px;
     position: relative;
 }
-.business-hours:before{
-    content: '';
-    width: 23px;
-    height: 23px;
-    background: #111;
-    position: absolute;
-    top: 5px;
-    left: -12px;
-    transform: rotate(-45deg);
-    z-index: -1;
-}
 .business-hours .title {
     font-size: 20px;
-    color: #BBB;
+    color: #FFF;
     text-transform: uppercase;
     padding-left: 5px;
-    border-left: 4px solid #ffac0c; 
+    border-left: 4px solid #39446f; 
 }
-.business-hours li {
-    color: #888;
+.business-hours {
+    color: #FFF;
     line-height: 30px;
     border-bottom: 1px solid #333; 
 }
-.business-hours li:last-child {
-    border-bottom: none; 
-}
-.business-hours .opening-hours li.today {
-    color: #ffac0c; 
+.business-hours .opening-hours .col-6.today {
+    color: #39446f;
 }
 </style>

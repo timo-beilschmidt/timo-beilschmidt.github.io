@@ -13,6 +13,7 @@ import { setContext, getLocation, getRouteData, normalizeError } from './utils'
 /* Plugins */
 
 import nuxt_plugin_bootstrapvue_1e4ba2d4 from 'nuxt_plugin_bootstrapvue_1e4ba2d4' // Source: ./bootstrap-vue.js (mode: 'all')
+import nuxt_plugin_vuesocialsharingplugin_bbf3ae40 from 'nuxt_plugin_vuesocialsharingplugin_bbf3ae40' // Source: ./vue-social-sharing-plugin.js (mode: 'all')
 import nuxt_plugin_vueawesomeswiper_5ce03f58 from 'nuxt_plugin_vueawesomeswiper_5ce03f58' // Source: ../plugins/vue-awesome-swiper.js (mode: 'all')
 import nuxt_plugin_vuejspaginate_185e95ec from 'nuxt_plugin_vuejspaginate_185e95ec' // Source: ../plugins/vuejs-paginate.js (mode: 'all')
 import nuxt_plugin_vue2googlemaps_51da65b7 from 'nuxt_plugin_vue2googlemaps_51da65b7' // Source: ../plugins/vue2-google-maps.js (mode: 'all')
@@ -69,7 +70,7 @@ async function createApp(ssrContext, config = {}) {
   // here we inject the router and store to all child components,
   // making them available everywhere as `this.$router` and `this.$store`.
   const app = {
-    head: {"title":"Kfz Gutachten und Prüfbüro Karakale","titleTemplate":"Kfz Gutachten Karakale || %s","meta":[{"charset":"utf-8"},{"name":"viewport","content":"width=device-width, initial-scale=1"},{"hid":"description","name":"description","content":"Kfz Gutachten und Prüfbüro Karakale bietet Hauptuntersuchungen (TÜV) und Gutachten jeder Art an. Darunter fallen Oldtimer, Unfall, e-Auto Gutachten und viele mehr."}],"link":[{"rel":"icon","type":"image\u002Fx-icon","href":"\u002Ffavicon_white.png"}],"style":[],"script":[]},
+    head: {"htmlAttrs":{"lang":"de"},"title":"Kfz Gutachten und Prüfbüro Karakale","titleTemplate":"Kfz Gutachten Karakale || %s","meta":[{"charset":"utf-8"},{"name":"viewport","content":"width=device-width, initial-scale=1"},{"hid":"description","name":"description","content":"Kfz Gutachten und Prüfbüro Karakale bietet Hauptuntersuchungen (TÜV) und Gutachten jeder Art an. (z.B. Oldtimer-, Unfall-, e-Auto Gutachten)"}],"link":[{"rel":"icon","type":"image\u002Fx-icon","href":"\u002Ffavicon_logo.png"},{"rel":"apple-touch-icon","type":"image\u002Fx-icon","href":"\u002Ffavicon_logo.png"}],"style":[],"script":[]},
 
     router,
     nuxt: {
@@ -185,6 +186,10 @@ async function createApp(ssrContext, config = {}) {
 
   if (typeof nuxt_plugin_bootstrapvue_1e4ba2d4 === 'function') {
     await nuxt_plugin_bootstrapvue_1e4ba2d4(app.context, inject)
+  }
+
+  if (typeof nuxt_plugin_vuesocialsharingplugin_bbf3ae40 === 'function') {
+    await nuxt_plugin_vuesocialsharingplugin_bbf3ae40(app.context, inject)
   }
 
   if (typeof nuxt_plugin_vueawesomeswiper_5ce03f58 === 'function') {
