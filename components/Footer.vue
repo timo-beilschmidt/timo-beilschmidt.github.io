@@ -90,5 +90,78 @@
             </div>
         </div>
         <!-- End Copyright Area -->
+
+        <VueCookieAcceptDecline
+            :debug="false"
+            :disableDecline="false"
+            :showPostponeButton="false"
+            @clicked-accept="cookieClickedAccept"
+            @clicked-decline="cookieClickedDecline"
+            @clicked-postpone="cookieClickedPostpone"
+            @removed-cookie="cookieRemovedCookie"
+            @status="cookieStatus"
+            elementId="myCookiePanel"
+            position="bottom-left"
+            ref="myCookiePanel"
+            transitionName="slideFromBottom"
+            type="floating"
+            >
+            <!-- Optional -->
+            <template #postponeContent>&times;</template>
+
+            <!-- Optional -->
+            <template #message>
+                <b-card-header header-tag="header">Cookies!</b-card-header>
+                <b-card-body>
+                    <p>
+                        We use cookies to ensure you get the best experience on our website.
+                        <a href="https://cookiesandyou.com/" target="_blank">Learn More...</a>
+                    </p>
+                    
+                    
+                </b-card-body>
+            </template>
+
+            <!-- Optional -->
+            <template #declineContent><b-button class="btn-pimary">Ablehnen</b-button></template>
+
+            <!-- Optional -->
+            <template #acceptContent><b-button>Verstanden!</b-button></template>
+        </VueCookieAcceptDecline>
     </footer>
 </template>
+
+<script>
+import VueCookieAcceptDecline from 'vue-cookie-accept-decline';
+export default {
+    components: {
+        VueCookieAcceptDecline,
+    },
+    data() {
+        return {
+            status: null,
+        };
+    },
+    methods: {
+        cookieStatus (status) {
+            this.status = status;
+        },
+        cookieClickedAccept () {
+            this.status = 'accept';
+        },
+        cookieClickedDecline () {
+            this.status = 'decline';
+        },
+        cookieClickedPostpone () {
+            this.status = 'postpone';
+        },
+        cookieRemovedCookie () {
+            this.status = null;
+            this.$refs.myCookiePanel.init();
+        },
+        removeCookie () {
+            this.$refs.myCookiePanel.removeCookie();
+        },
+    }
+}
+</script>

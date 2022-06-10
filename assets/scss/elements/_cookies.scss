@@ -1,0 +1,80 @@
+/*==========================
+    Cookie Area 
+===========================*/
+
+
+.cookie {
+    z-index: 999;
+    /* 
+    // Bar style
+    &__bar {
+      &--bottom {
+      }
+  
+      &--top {
+      }
+  
+      &__postpone-button {
+      }
+  
+      &__content {
+      }
+  
+      &__buttons {
+  
+        &__button {
+          &--accept {
+          }
+  
+          &--decline {
+          }
+        }
+      }
+    } */
+  
+    // Floating style
+    &__floating {
+        position: fixed;
+        width: 300px;
+        background-color: #232323;
+        color: #eef7f1;
+        box-shadow: 10px;
+      &--bottom-left {
+        bottom: 1%;
+        left: 5%;
+      }
+  
+      &--bottom-right {
+        bottom: 0;
+        right: 0;
+      }
+  
+      &--top-right {
+      }
+  
+      &--top-left {
+      }
+  
+      &__postpone-button {
+      }
+  
+      &__content {
+        padding: 1rem;
+      }
+  
+      &__buttons {
+        text-align: center;
+        padding-bottom: 1rem;
+        &__button {
+          &--accept {
+            border: none;
+          }
+  
+          &--decline {
+            border: none;
+          }
+        }
+      }
+    }
+  }
+

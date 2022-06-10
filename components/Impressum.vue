@@ -19,16 +19,50 @@
                 <div class="col-xl-8 col-lg-10 col-md-12 col-sm-12">
                     <div class="what-do mt--40">
                         <div class="content">
-                            <h5 class="heading heading-h5 theme-color wow move-up">Verantwortlich</h5>
+                            <h5 class="heading heading-h5 theme-color wow move-up">Angaben gem&auml;&szlig; &sect; 5 TMG</h5>
                             <div class="bkseparator--20"></div>
-                            <p>Kfz Gutachten Karakale</p>
-                            <p>Ahmet Talha Karakale</p>
-                            <p>Siemensstr. 1, 53121 Bonn</p>
+                            <p>Ahmet Talha Karakale<br />
+                            Ingenieurb&uuml;ro<br />
+                            Siemensstra&szlig;e 1<br />
+                            53121 Bonn</p>
                             <div class="bkseparator--30"></div>
+
                             <h5 class="heading heading-h5 theme-color wow move-up">Kontakt</h5>
                             <div class="bkseparator--20"></div>
-                            <p>Telefon: 0228-96699180</p>
-                            <p>E-Mail: info@ing-karakale.de</p>
+                            <p>Telefon: 0228 - 966 99 180<br />
+                            E-Mail: info@ing-karakale.de</p>
+                            <div class="bkseparator--30"></div>
+
+                            <h5 class="heading heading-h5 theme-color wow move-up">Aufsichtsbeh&ouml;rde</h5>
+                            <div class="bkseparator--20"></div>
+                            <p>Bezirksregierung K&ouml;ln<br />
+                            Zeughausstra&szlig;e 2-10<br />
+                            50667 K&ouml;ln</p>
+                            <p><a class="link" href="https://www.bezreg-koeln.nrw.de" target="_blank" rel="noopener noreferrer">https://www.bezreg-koeln.nrw.de</a></p>
+                            <div class="bkseparator--30"></div>
+
+                            <h5 class="heading heading-h5 theme-color wow move-up">Berufsbezeichnung und berufsrechtliche Regelungen</h5>
+                            <div class="bkseparator--20"></div>
+                            <p>Berufsbezeichnung:<br />
+                            Ingenieur</p>
+                            <p>Zust&auml;ndige Kammer:<br />
+                            </p>
+                            <p>Verliehen in:<br />
+                            Deutschland</p>
+                            <p>Es gelten folgende berufsrechtliche Regelungen:</p>
+                            <div class="bkseparator--30"></div>
+                            
+                            <h5 class="heading heading-h5 theme-color wow move-up">Redaktionell verantwortlich</h5>
+                            <div class="bkseparator--20"></div>
+                            <p>Ahmet Talha Karakale</p>
+                            <div class="bkseparator--30"></div>
+
+                            <h5 class="heading heading-h5 theme-color wow move-up">>Verbraucher&shy;streit&shy;beilegung/Universal&shy;schlichtungs&shy;stelle</h5>
+                            <div class="bkseparator--20"></div>
+                            <p>Wir sind nicht bereit oder verpflichtet, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.</p>
+                            <div class="bkseparator--30"></div>
+
+                            <p>Quelle: <a class="link" href="https://www.e-recht24.de">e-recht24.de</a></p>
                         </div>
                     </div>
                 </div>
@@ -36,3 +70,9 @@
         </div>
     </div>
 </template>
+
+<style lang="scss">
+.link {
+    color: #ca3c08 !important;
+}
+</style>
