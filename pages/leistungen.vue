@@ -42,7 +42,7 @@
 
         head() {
             return {
-                title: 'Leistungen und Service'
+                title: 'Leistungen: Gutachten und TÜV (HU)'
             }
         },
     };

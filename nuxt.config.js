@@ -40,6 +40,10 @@ export default {
     router: {
         linkExactActiveClass: 'active-link',
     },
+/* 
+    redirect: [
+        { from: '^(?!www\.).*$', to: 'https://www.$1', statusCode: 301  },
+    ], */
     /*
     ** Plugins to load before mounting the App
     */
@@ -59,6 +63,7 @@ export default {
     modules: [
         'bootstrap-vue/nuxt',
         '@nuxtjs/style-resources',
+        '@nuxtjs/redirect-module',
         'vue-social-sharing/nuxt',
     ],
 

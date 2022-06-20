@@ -71,7 +71,7 @@
     </div>
 </template>
 
-<style lang="scss">
+<style lang="scss" scoped>
 .link {
     color: #ca3c08 !important;
 }

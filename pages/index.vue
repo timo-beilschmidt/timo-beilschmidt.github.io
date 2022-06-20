@@ -71,7 +71,7 @@
 
         head() {
             return {
-                title: 'Hauptseite (Home)'
+                title: 'Gutachten & Hauptuntersuchung (TÜV, HU)'
             }
         },
     };
