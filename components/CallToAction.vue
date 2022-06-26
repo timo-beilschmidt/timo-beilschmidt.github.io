@@ -9,7 +9,7 @@
                 </div>
                 <div class="col-lg-6 col-sm-4">
                     <div class="call-btn text-center text-sm-right mt_mobile--20 wow move-up">
-                        <n-link to="/contact-us-modern" class="brook-btn bk-btn-white text-theme btn-sd-size btn-rounded">
+                        <n-link to="/kontakt" class="brook-btn bk-btn-white text-theme btn-sd-size btn-rounded">
                             Kontakt
                         </n-link>
                     </div>

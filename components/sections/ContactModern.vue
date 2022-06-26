@@ -10,14 +10,18 @@
                             <div class="classic-address text-left mt--60">
                                 <h4 class="heading heading-h4 text-white">Besuchen Sie uns</h4>
                                 <div class="desc mt--15">
-                                    <p class="bk_pra line-height-2-22 text-white">Kfz-Prüfstelle<br>Siemensstr. 1,<br>53121 Bonn</p>
+                                    <p class="bk_pra line-height-2-22 text-white">Kfz-Prüfstelle</p>
+                                    <p class="bk_pra line-height-2-22 text-white">Siemensstr. 1,</p>
+                                    <p class="bk_pra line-height-2-22 text-white">53121 Bonn</p>
                                 </div>
                             </div>
 
                             <div class="classic-address text-left mt--60">
                                 <h4 class="heading heading-h4 text-white">Kontaktieren Sie uns</h4>
                                 <div class="desc mt--15 mb--30">
-                                    <p class="bk_pra line-height-2-22 text-white"><a href="mailto:info@ing-karakale.de">info@ing-karakale.de</a><br><a href="tel::022896699180">Telefon: 0228-96699180</a><br><a href="tel::015737154376">Mobil: 01573-7154376</a></p>
+                                    <p class="bk_pra line-height-2-22 text-white"><a href="mailto:info@ing-karakale.de">info@ing-karakale.de</a></p>
+                                    <p class="bk_pra line-height-2-22 text-white"><a href="tel::022896699180">Telefon: 0228-96699180</a></p>
+                                    <p class="bk_pra line-height-2-22 text-white"><a href="tel::015737154376">Mobil: 01573-7154376</a></p>
                                 </div>
                                 <div class="social-share social--transparent text-white">
                                     <a href="https://www.facebook.com/CarKarakale/" target="_blank">
