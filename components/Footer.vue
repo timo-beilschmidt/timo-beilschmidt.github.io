@@ -113,9 +113,33 @@
             <template #message>
                 <b-card-header header-tag="header">Cookies!</b-card-header>
                 <b-card-body>
-                    <p>
-                        We use cookies to ensure you get the best experience on our website.
-                        <a href="https://cookiesandyou.com/" target="_blank">Learn More...</a>
+                    <span>
+                        Wir verwenden Cookies und ähnliche Technologien auf unserer Website und verarbeiten personenbezogene Daten von dir
+                    </span>
+                    <span
+                        v-if="showMore"
+                    >
+                         (z.B. IP-Adresse), um z.B. Inhalte und Anzeigen zu personalisieren, Medien von Drittanbietern einzubinden oder Zugriffe auf unsere Website zu analysieren. Die Datenverarbeitung kann auch erst in Folge gesetzter Cookies stattfinden. Wir teilen diese Daten mit Dritten, die wir in den Privatsphäre-Einstellungen benennen. Die Datenverarbeitung kann mit deiner Einwilligung oder auf Basis eines berechtigten Interesses erfolgen, dem du in den Privatsphäre-Einstellungen widersprechen kannst. Du hast das Recht, nicht einzuwilligen und deine Einwilligung zu einem späteren Zeitpunkt zu ändern oder zu widerrufen. Weitere Informationen zur Verwendung deiner Daten findest du in unserer <b-link href="https://devowl.io/de/datenschutzerklaerung/" target="_blank">Datenschutzerklärung</b-link>.
+                    </span>
+                    <span
+                        v-if="!showMore"
+                    >
+                        ...
+                    </span>
+                    <br/>
+                    <p
+                        v-if="!showMore"
+                        class="show-more-btn align-end"
+                        @click="toggleShowMore"
+                    >
+                        Mehr anzeigen
+                    </p>
+                    <p
+                        v-if="showMore"
+                        class="show-more-btn"
+                        @click="toggleShowMore"
+                    >
+                        Weniger anzeigen
                     </p>
                     
                     
@@ -140,6 +164,7 @@ export default {
     data() {
         return {
             status: null,
+            showMore: false,
         };
     },
     methods: {
@@ -162,6 +187,39 @@ export default {
         removeCookie () {
             this.$refs.myCookiePanel.removeCookie();
         },
+        toggleShowMore() {
+            this.showMore = !this.showMore;
+        },
     }
 }
 </script>
+
+<style lang="scss" scoped>
+p{
+    &.show-more-btn{
+        border: 0;
+        background-color: transparent;
+        font-weight: 600;
+        font-size: 14px;
+        color: rgb(70, 107, 155);
+        display: inline-block;
+        margin-top: 12px;
+        transition: 0.3s;
+        cursor: pointer;
+        i{
+            font-size: 12px;
+            left: auto;
+            right: auto;
+            -webkit-transform: none;
+            -ms-transform: none;
+            transform: none;
+            margin-left: 15px;
+            color: $theme-color;
+            transition: 0.3s;
+        }
+        &:hover{
+            color: #0038E3;
+        }
+    }
+}
+</style>
