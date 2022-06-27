@@ -4,19 +4,6 @@
             <div class="row">
                 <div class="col-12">
                     <div class="hero-content">
-                        <client-only>
-                            <silent-box :image="videos[0]">
-                                <template v-slot:silentbox-item>
-                                    <!-- <div class="video-btn-2">
-                                        <div class="play__btn">
-                                            <div class="icon-gradient color-pink">
-                                                <div class="video-icon"></div>
-                                            </div>
-                                        </div>
-                                    </div> -->
-                                </template>
-                            </silent-box>
-                        </client-only>
                         <h1 class="hero-title">Kfz Gutachten und Prüfbüro Karakale Bonn Hauptseite</h1>
                         <!-- <img src="/img/slider/creative-agency-wave.png" alt="wave icon"> -->
                         <h6>WENN ES MAL KRACHT ODER DIE PLAKETTE FEHLT...</h6>
@@ -81,11 +68,11 @@
         align-items: center;
         text-align: center;
         background-color: #111c81;
-        background-image: url('/img/other/landing_page_hero_image_logo.svg');
+        background-image: url('/img/other/landing_page_hero_image_logo.webp');
         // res
         @media #{$sm-layout}{
             height: 600px;
-            background-image: url('/img/other/landing_page_hero_image_logo_small.svg');
+            background-image: url('/img/other/landing_page_hero_image_logo_small.webp');
         }
         .hero-title {
             visibility: hidden;

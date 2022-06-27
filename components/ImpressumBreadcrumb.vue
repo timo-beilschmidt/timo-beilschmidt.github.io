@@ -1,5 +1,5 @@
 <template>
-    <div class="breadcrumb-area bg_image--11 ptb--270 breadcrumb-title-bar breadcrumb-title-white" data-overlay='7' :style="{ backgroundImage: `url('/img/other/vw_ls.JPG')` }">
+    <div class="breadcrumb-area bg_image--11 ptb--270 breadcrumb-title-bar breadcrumb-title-white" data-overlay='7' :style="{ backgroundImage: `url('/img/other/vw_ls.webp')` }">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">

@@ -33,7 +33,7 @@
                 </div>
                 <div class="col-lg-5 mt_md--40 mt_sm--40">
                     <div class="thumb">
-                        <img class="w-100" src="/img/other/leistung_2.png" alt="service image">
+                        <img class="w-100" src="/img/other/leistung_2.webp" alt="service image">
                     </div>
                 </div>
             </div>

@@ -8,7 +8,7 @@
                             <div class="swiper-slide">
                                 <div class="flexale-image">
                                     <div class="thumb">
-                                        <img src="/img/other/ZOE_cut.jpeg" alt="Renault ZOE als Firmenwagen mit Logo auf der linken Seite.">
+                                        <img src="/img/other/ZOE_cut.webp" alt="Renault ZOE als Firmenwagen mit Logo auf der linken Seite.">
                                     </div>
                                 </div>
                             </div>
