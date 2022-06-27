@@ -1,5 +1,5 @@
 <template>
-    <div id='map' class="brook-breadcrumb-area pt--300 pt_md--250 pt_sm--200 pb--300 pb_md--250 pb_sm--200 bg_image--55 breadcrumb-title-bar breadcrumb-title-white" :style="{ backgroundImage: `url('/img/bg/stylised_map_bonn.png')` }">
+    <div id='map' class="brook-breadcrumb-area pt--300 pt_md--250 pt_sm--200 pb--300 pb_md--250 pb_sm--200 bg_image--55 breadcrumb-title-bar breadcrumb-title-white" :style="{ backgroundImage: `url('/img/bg/stylised_map_bonn.webp')` }">
 
         <a href="http://mapbox.com/about/maps" class='mapbox-logo' target="_blank">Mapbox</a>
         <div class="mapbox-attribution-container">
