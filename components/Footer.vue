@@ -45,7 +45,7 @@
                             </p>
                         </div>
                         <div class="social-share social--transparent text-white">
-                            <a href="https://www.facebook.com/CarKarakale/" target="_blank">
+                            <a href="#" target="_blank">
                                 <i class="fab fa-facebook"></i>
                             </a>
                             <a href="https://www.instagram.com/gutachten.karakale/" target="_blank">

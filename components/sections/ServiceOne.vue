@@ -5,7 +5,8 @@
                 <div class="col-lg-12">
                     <div class="section-title text-center wow move-up">
                         <h3>Wenn es mal kracht oder die Plakette fehlt...</h3>
-                        <h2>Zu unseren Leistungen gehören Gutachten sowie die Hauptuntersuchung. Rufen sie uns einfach an oder schreiben sie uns.</h2><br>
+                        <h2>Zu unseren Leistungen gehören Gutachten sowie die Hauptuntersuchung.</h2><br>
+                        <h2>Rufen sie uns einfach an oder schreiben sie uns.</h2><br>
                         <h2>Wir freuen uns auf Sie!</h2>
                     </div>
                 </div>

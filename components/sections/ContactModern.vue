@@ -24,7 +24,7 @@
                                     <p class="bk_pra line-height-2-22 text-white"><a href="tel::015737154376">Mobil: 01573-7154376</a></p>
                                 </div>
                                 <div class="social-share social--transparent text-white">
-                                    <a href="https://www.facebook.com/CarKarakale/" target="_blank">
+                                    <a href="#" target="_blank">
                                         <i class="fab fa-facebook"></i>
                                     </a>
                                     <a href="https://www.instagram.com/gutachten.karakale/" target="_blank">

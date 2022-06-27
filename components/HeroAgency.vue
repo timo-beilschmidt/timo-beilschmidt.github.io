@@ -17,7 +17,7 @@
         <div class="hero-social">
             <ul class="social-icon icon-border-rounded icon-size-medium social-vertical text-center">
                 <li class="facebook">
-                    <a href="https://www.facebook.com/CarKarakale/" class="link" aria-label="Facebook">
+                    <a href="#" class="link" aria-label="Facebook">
                         <i class="fab fa-facebook"></i>
                     </a>
                 </li>
